@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 set -euo pipefail
-# TODO: iniciar/checar Chroma (http://localhost:8001 se exposto)
-# TODO: criar collection $CHROMA_COLLECTION (cosine)
-# TODO: ler data/processed/chunks.jsonl, gerar embeddings $EMBEDDINGS_MODEL e inserir com metadados
-echo "[TODO] seed_index conforme INDEX_SCHEMA.md"
+# Apenas valida que o Chroma no host está acessível
+URL="http://host.docker.internal:8001"
+echo "[info] testando $URL ..."
+curl -sS "$URL" | head -c 200 || true
+echo
+echo "[TODO] implementar criação de coleção e upsert de chunks"
