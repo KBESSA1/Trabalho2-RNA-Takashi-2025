@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
-# TODO: se LLM_BACKEND=ollama -> curl POST http://localhost:11434/api/pull {"name":"llama3.1"}
-# TODO: opcional: pull mistral como fallback
-echo "[TODO] pull_models para LLM local (ollama)"
+# Baixa o modelo padrão para respostas
+curl -sS -X POST http://host.docker.internal:11434/api/pull \
+  -H "Content-Type: application/json" \
+  -d '{"name":"llama3.1"}'
+echo
