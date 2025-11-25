@@ -1,0 +1,30 @@
+version: "3.9"
+services:
+  app:
+    image: python:3.11-slim
+    working_dir: /app
+    command: ["sleep","infinity"]   # placeholder
+    volumes:
+      - ./data:/app/data:ro
+      - ./index/chroma:/app/index/chroma
+      - ./app:/app/app
+      - ./eval:/app/eval
+      - ./scripts:/app/scripts
+      - ./.env:/app/.env:ro
+
+  chroma:
+    image: chromadb/chroma:latest
+    volumes:
+      - ./index/chroma:/chroma/index
+    ports:
+      - "8001:8000"
+
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama:/root/.ollama
+
+volumes:
+  ollama:
