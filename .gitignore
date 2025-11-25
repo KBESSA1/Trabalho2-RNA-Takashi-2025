@@ -1,0 +1,7 @@
+# ignore
+__pycache__/
+.venv/
+.vscode/
+.env
+index/chroma/
+data/processed/
