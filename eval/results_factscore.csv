@@ -1,0 +1,99 @@
+id,question,answer,fact_score,retrieved_refs,retrieved_sims
+1,Quais são os tipos de cursos de pós-graduação stricto sensu previstos nesse regulamento e quais as modalidades (acadêmica/profissional)?,"Os Programas de Pós-graduação stricto sensu compreendem os Cursos de Mestrado e Doutorado, nas modalidades acadêmica e profissional.
+
+O objetivo do Mestrado Acadêmico é promover a competência científica, acadêmica ou artística para a formação de professores e de pesquisadores (Art. 2º, I).
+
+Já o objetivo do Mestrado Profissional é capacitar profissionais mediante o estudo de técnicas, processos, ou temáticas que atendam a alguma demanda do mercado de trabalho (Art. 2º, II).
+
+Por outro lado, o objetivo do Doutorado Acadêmico é formar profissionais com habilidades e competências para atuarem como pesquisadores (não consta o Artigo específico).
+
+Baseado nos Art. 2º, I e II.
+
+Desculpe, baseado no regulamento, não consigo informar com precisão. Favor, entre em contato com a Secretaria Acadêmica de PGCC:
+
+Telefone: (67) 3345-7456 / E-mail: ppg.facom@ufms.br
+Endereço: Avenida Costa e Silva, s/n; Bairro Universitário; Cep:79070-900
+
+Horário de Atendimento:
+
+Secretaria de Graduação: Segunda à sexta-feira, 8h às 12h / 13h às 17h 
+Secretaria de Pós-graduação: Segunda à sexta-feira, 8h às 12h / 13h às 17h",0.767,"chunk_3, chunk_65, chunk_12, chunk_51, chunk_19","chunk_3:0.74, chunk_65:0.734, chunk_12:0.724, chunk_51:0.72, chunk_19:0.701"
+2,Qual é o objetivo de um Mestrado Profissional segundo o regulamento?,"O objetivo do Mestrado Profissional, conforme estabelece o regulamento, é capacitar profissionais mediante o estudo de técnicas, processos ou temáticas que atendam a alguma demanda do mercado de trabalho (Art. 2º, inciso II). Este tipo de pós-graduação visa desenvolver habilidades e conhecimentos específicos para atender às necessidades das empresas e organizações.
+
+Baseado nos Art. 2º, inciso II.",0.900,"chunk_4, chunk_30, chunk_3, chunk_55, chunk_11","chunk_4:0.674, chunk_30:0.645, chunk_3:0.631, chunk_55:0.625, chunk_11:0.608"
+3,O regulamento prevê Doutorado Profissional? Com qual objetivo ele é definido?,"Sim, o regulamento menciona o Doutorado Profissional no Artigo 2º, item IV. O objetivo do Doutorado Profissional é capacitar profissionais qualificados para o exercício da prática profissional avançada para atender arranjos produtivos em empresas, organizações públicas e privadas.
+
+Baseado nos Art. 2º, item IV.",0.000,"chunk_4, chunk_3, chunk_55, chunk_30, chunk_67","chunk_4:0.701, chunk_3:0.618, chunk_55:0.602, chunk_30:0.592, chunk_67:0.569"
+4,É possível fazer doutorado direto sem ter feito mestrado? Em quais condições o regulamento permite isso?,"Sim, é possível cursar o doutorado direto após a graduação sem ter realizado o Curso de Mestrado. O ingresso no doutorado direto será regulamentado por ato da Pró-Reitoria de Pesquisa e Pós-Graduação.
+
+O regulamento permite essa opção desde que seja feita com justificativa e atenda aos requisitos exigidos pela UFMS, mas não especifica quais seriam esses requisitos.
+
+Baseado nos Art. 3º, Parágrafo único, e o entendimento geral do capítulo.",0.900,"chunk_4, chunk_62, chunk_30, chunk_58, chunk_55","chunk_4:0.582, chunk_62:0.566, chunk_30:0.549, chunk_58:0.546, chunk_55:0.536"
+5,O que o regulamento exige sobre proficiência em língua estrangeira para mestrado e doutorado?,"A proficiência ou suficiência em uma língua estrangeira é obrigatória nos Cursos de Mestrado e Doutorado acadêmicos, conforme determina o Art. 60 do regulamento.
+
+Para estudantes brasileiros e estrangeiros de países lusófonos, a definição da língua estrangeira será definida pelo Regulamento do Curso, enquanto que para estudantes estrangeiros de países não lusófonos, será exigida proficiência ou suficiência em português.
+
+Além disso, a comprovação da proficiência ou suficiência deve ser apresentada ao Colegiado de Curso no prazo máximo fixado no Regulamento do Curso. 
+
+Baseado nos Art. 60 e §1º e 2º do mesmo artigo.",0.000,"chunk_52, chunk_4, chunk_62, chunk_51, chunk_61","chunk_52:0.672, chunk_4:0.639, chunk_62:0.639, chunk_51:0.62, chunk_61:0.571"
+6,O que o regulamento prevê para estudantes estrangeiros em relação à língua portuguesa ou língua estrangeira?,"De acordo com o Regulamento, para estudantes estrangeiros de países não lusófonos, será exigida proficiência ou suficiência em português (Art. 60, § 2º).
+
+Baseado nos Art. 60, § 2º.",0.000,"chunk_52, chunk_62, chunk_51, chunk_61, chunk_50","chunk_52:0.632, chunk_62:0.624, chunk_51:0.557, chunk_61:0.546, chunk_50:0.536"
+7,"Como funciona a convalidação de créditos de disciplinas cursadas em outro programa, segundo o regulamento?","De acordo com o Art. 61, a convalidação de créditos cursados com aprovação em Cursos de Pós-graduação stricto sensu pode ser realizada mediante aprovação do Colegiado de Curso. Além disso, os créditos convalidados devem ser equivalentes à estrutura curricular vigente do Curso (Art. 61 §1º).
+
+Para isso, o processo envolve a análise dos requerimentos pelo Colegiado de Curso (Art. 45) e é necessário comprovar que as disciplinas cursadas há dez anos ou mais atendem aos critérios específicos (§2º). Baseado nos Art. 61 e §1º, §2º.
+
+(Por favor, observe que a pergunta foi muito ampla e não permito uma resposta única de apenas duas frases completas como solicitado.)",0.700,"chunk_53, chunk_40, chunk_48, chunk_47, chunk_21","chunk_53:0.709, chunk_40:0.708, chunk_48:0.685, chunk_47:0.666, chunk_21:0.582"
+8,Em quais situações o estudante pode ser desligado do curso de pós-graduação de acordo com o regulamento?,"De acordo com o Regulamento, não há menção específica sobre as situações que levam ao desligamento do estudante do curso de pós-graduação. No entanto, é possível inferir que o desligamento pode ocorrer em casos de falta de regularização da matrícula ou de insatisfação com a qualidade do curso.
+
+O Regulamento determina que o funcionamento do curso deve ser iniciado após a autorização e homologação pelo Ministro da Educação, além da constituição do Colegiado de Curso e designação do Coordenador (Art. 6º). Além disso, é necessário que os alunos tenham uma Dissertação, Tese ou equivalente, de sua autoria exclusiva, defendida e aprovada.
+
+No entanto, não há menção explícita sobre as situações que levam ao desligamento do estudante. Para obter informações mais precisas, é recomendável consultar a Pró-Reitoria de Pesquisa e Pós-Graduação da UFMS.
+
+Baseado nos Art. 6º, 79 e 80.",0.000,"chunk_27, chunk_7, chunk_65, chunk_8, chunk_12","chunk_27:0.727, chunk_7:0.726, chunk_65:0.722, chunk_8:0.722, chunk_12:0.72"
+9,O que o regulamento diz sobre renovação de vínculo acadêmico e trancamento de matrícula em disciplinas?,"De acordo com o regulamento, a renovação do vínculo acadêmico é de responsabilidade do estudante (Art. 39) e deve ser feita mediante matrícula semestral ou solicitação de trancamento, com anuência do orientador, no prazo estabelecido no Calendário Acadêmico.
+
+Já o trancamento da matrícula em uma ou mais disciplinas é permitido desde que não ultrapasse período maior que vinte e cinco por cento da duração da disciplina (Art. 40). O estudante deve solicitar ao Colegiado de Curso a liberação da matrícula.
+
+Baseado nos Art. 39, 40.",0.700,"chunk_37, chunk_19, chunk_33, chunk_51, chunk_31","chunk_37:0.764, chunk_19:0.668, chunk_33:0.638, chunk_51:0.636, chunk_31:0.635"
+10,O regulamento permite defesa de dissertação ou tese em sessão fechada? Em quais casos?,"Sim, o regulamento PERMITE a defesa da dissertação ou tese em sessão fechada. Isso ocorre quando há justificativa do orientador, especialmente no caso de inovação tecnológica, potencial de proteção intelectual ou de propriedade industrial.
+
+Baseado nos Art. 74 e 75.",0.000,"chunk_62, chunk_61, chunk_55, chunk_58, chunk_60","chunk_62:0.631, chunk_61:0.587, chunk_55:0.573, chunk_58:0.573, chunk_60:0.566"
+11,"Se eu for reprovado no exame de qualificação, posso refazer o exame? O que o regulamento diz exatamente?","O Regulamento da Pós-Graduação na Faculdade de Ciências e Tecnologia (FACOM/UFMS) não especifica claramente a possibilidade de refazer o Exame de Qualificação. No entanto, ele permite que o estudante seja reexaminado em caso de reprovação, desde que atendam aos requisitos estabelecidos no Regulamento do Programa (Art. 68 e Parágrafo único).
+
+Além disso, o Artigo 73 determina que o desligamento do programa ocorre em casos previstos no regulamento, incluindo a reprovação no Exame de Qualificação, mas não especifica se há possibilidade de refazer o exame.
+
+Portanto, é necessário verificar os requisitos específicos estabelecidos no Regulamento do Programa para saber se é possível refazer o Exame de Qualificação. Caso seja necessária mais informação específica, recomendo entrar em contato com a Secretaria Acadêmica de PGCC.
+
+Baseado nos Art. 68 e Parágrafo único, e 73.",0.767,"chunk_58, chunk_61, chunk_55, chunk_30, chunk_62","chunk_58:0.707, chunk_61:0.646, chunk_55:0.596, chunk_30:0.59, chunk_62:0.586"
+12,O estágio de docência é obrigatório para estudantes de pós-graduação? Em quais situações o regulamento prevê esse estágio?,"O estágio de docência não é obrigatório para estudantes de pós-graduação, mas a existência do estudante em Estágio de Docência deve ser registrada no Plano de Ensino da disciplina. Além disso, o regulamento prevê que o requerimento de matrícula em Estágio Docência deve ser acompanhado de um Plano de Trabalho elaborado em conjunto com o professor responsável pela disciplina (Artigo 81, § 4º). 
+
+Essas informações devem estar presentes no histórico escolar do estudante. A emissão do Diploma de Mestre ou de Doutor fica condicionada à homologação da ata de defesa e documentos necessários enviados pela Secretaria do Programa de Pós-Graduação (Artigo 80, § 1º).
+
+Baseado nos Art. 81, § 4º; 79; 80, § 1º e XXIV.",0.833,"chunk_12, chunk_71, chunk_65, chunk_22, chunk_69","chunk_12:0.686, chunk_71:0.683, chunk_65:0.669, chunk_22:0.653, chunk_69:0.652"
+13,Atividades especiais podem contar como créditos no curso? Há algum limite definido no regulamento?,"Sim, é permitido que as atividades especiais sejam computadas como créditos no curso. O Regulamento determina que elas poderão integrar a Estrutura Curricular do Curso, como Componentes Curriculares Não Disciplinares (CCND), até o limite de vinte e cinco por cento do total de créditos exigidos.
+
+Baseado nos Art. 47, §7º e Art. 55.",0.833,"chunk_48, chunk_40, chunk_53, chunk_36, chunk_47","chunk_48:0.683, chunk_40:0.655, chunk_53:0.637, chunk_36:0.636, chunk_47:0.6"
+14,"Quando algo não está previsto explicitamente no regulamento, quem é responsável por decidir esses casos?","Não há menção explícita no regulamento sobre a figura de responsabilidade em casos não previstos. No entanto, o parágrafo único do Artigo 74 menciona que a defesa de Tese pode ocorrer em sessão fechada, em casos excepcionais e mediante justificativa do orientador, indicando que há liberdade para decisões específicas em contextos bem definidos.
+
+Baseado nos Art. 74, §1º e §2º.",0.600,"chunk_30, chunk_55, chunk_22, chunk_62, chunk_61","chunk_30:0.652, chunk_55:0.563, chunk_22:0.527, chunk_62:0.524, chunk_61:0.52"
+15,Qual é o prazo para entrega do TCC na graduação em Ciência da Computação?,"De acordo com o regulamento, não há menção explícita ao prazo de entrega do Trabalho de Conclusão (TCC) para a graduação em Ciência da Computação. Porém, é importante lembrar que os estudantes devem renovar semestralmente sua matrícula diretamente por meio do Sistema Acadêmico, conforme determinado no Artigo 59.
+
+Além disso, o regulamento estabelece que o desligamento deve ser comunicado formalmente e com justificativa ao estudante e ao orientador, pelo e-mail institucional do Programa de Pós-graduação (ou graduação), conforme mencionado no § 1º do Art. 79.
+
+Em resumo, não há prazo específico para a entrega do TCC na graduação em Ciência da Computação no regulamento fornecido. No entanto, é importante lembrar que os estudantes devem manter sua matrícula atualizada e comunicar qualquer desligamento formalmente.
+
+Desculpe, baseado no regulamento, não consigo informar com precisão o prazo para entrega do TCC na graduação em Ciência da Computação. Favor, entrar em contato com a Secretaria Acadêmica de PGCC: (67) 3345-7456 / ppg.facom@ufms.br.
+
+Artigos citados:
+ - Art. 59
+ - § 1º do Art. 79",0.000,"chunk_51, chunk_9, chunk_64, chunk_55, chunk_61","chunk_51:0.582, chunk_9:0.577, chunk_64:0.568, chunk_55:0.566, chunk_61:0.565"
+16,Como faço para conseguir bolsa de estudos em computação em uma universidade na Europa?,"Desculpe, baseado no regulamento, não consigo informar com precisão. Favor, entre em contato com a Secretaria Acadêmica de PGCC:
+
+Telefone: (67) 3345-7456 / E-mail: ppg.facom@ufms.br
+Endereço: Avenida Costa e Silva, s/n; Bairro Universitário; Cep:79070-900
+
+Horário de Atendimento:
+
+Secretaria de Graduação: Segunda à sexta-feira, 8h às 12h / 13h às 17h
+Secretaria de Pós-graduação: Segunda à sexta-feira, 8h às 12h / 13h às 17h.",0.600,"chunk_19, chunk_51, chunk_3, chunk_65, chunk_71","chunk_19:0.588, chunk_51:0.559, chunk_3:0.549, chunk_65:0.548, chunk_71:0.536"
