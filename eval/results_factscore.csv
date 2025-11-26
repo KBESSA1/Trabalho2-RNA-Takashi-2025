@@ -1,99 +1,1487 @@
 id,question,answer,fact_score,retrieved_refs,retrieved_sims
-1,Quais são os tipos de cursos de pós-graduação stricto sensu previstos nesse regulamento e quais as modalidades (acadêmica/profissional)?,"Os Programas de Pós-graduação stricto sensu compreendem os Cursos de Mestrado e Doutorado, nas modalidades acadêmica e profissional.
+1,Quais são os tipos de cursos de pós-graduação stricto sensu previstos nesse regulamento e quais as modalidades (acadêmica/profissional)?,"Pergunta do usuário:
+- Quais são os tipos de cursos de pós-graduação stricto sensu previstos nesse regulamento e quais as modalidades (acadêmica/profissional)?
 
-O objetivo do Mestrado Acadêmico é promover a competência científica, acadêmica ou artística para a formação de professores e de pesquisadores (Art. 2º, I).
+Trechos relevantes do Regulamento:
 
-Já o objetivo do Mestrado Profissional é capacitar profissionais mediante o estudo de técnicas, processos, ou temáticas que atendam a alguma demanda do mercado de trabalho (Art. 2º, II).
+embramento de Cursos de Pós-graduação
+ stricto sensu, para aprovação pelo Conselho Universitário - Coun e pela Coordenação de
+ Aperfeiçoamento de Pessoal de Nível Superior - Capes.
 
-Por outro lado, o objetivo do Doutorado Acadêmico é formar profissionais com habilidades e competências para atuarem como pesquisadores (não consta o Artigo específico).
+Art. 2º Os Programas de Pós-graduação stricto sensu compreendem os Cursos
+ de Mestrado e Doutorado, nas modalidades acadêmica e profissional, com os seguintes
+ objetivos:
+ I - Mestrado Acadêmico: promover a competência científica, acadêmica ou
+ artística para a formação de professores e de pesquisadores;
+ II - Mestrado Profissional: capacitar profissionais mediante o estudo de
+ técnicas, processos, ou temáticas que atendam a alguma demanda do mercado de trabalho;
+ III - Doutorado Acadêmico: formar profissionais d
 
-Baseado nos Art. 2º, I e II.
+-----
 
-Desculpe, baseado no regulamento, não consigo informar com precisão. Favor, entre em contato com a Secretaria Acadêmica de PGCC:
+ências curriculares, o estudante deverá ter uma Dissertação, Tese ou equivalente, de sua
+ autoria exclusiva, defendida e aprovada.
 
-Telefone: (67) 3345-7456 / E-mail: ppg.facom@ufms.br
-Endereço: Avenida Costa e Silva, s/n; Bairro Universitário; Cep:79070-900
+Art. 79. As informações que deverão constar no Histórico Escolar do estudante
+ de Pós-graduação stricto sensu da UFMS serão definidas em normas pela Pró-Reitoria de
+ Pesquisa e Pós-Graduação.
 
-Horário de Atendimento:
+Art. 80. O Diploma de Mestre ou de Doutor será expedido e registrado pela
+ Secretaria de Certificação Acadêmica da UFMS.
 
-Secretaria de Graduação: Segunda à sexta-feira, 8h às 12h / 13h às 17h 
-Secretaria de Pós-graduação: Segunda à sexta-feira, 8h às 12h / 13h às 17h",0.767,"chunk_3, chunk_65, chunk_12, chunk_51, chunk_19","chunk_3:0.74, chunk_65:0.734, chunk_12:0.724, chunk_51:0.72, chunk_19:0.701"
-2,Qual é o objetivo de um Mestrado Profissional segundo o regulamento?,"O objetivo do Mestrado Profissional, conforme estabelece o regulamento, é capacitar profissionais mediante o estudo de técnicas, processos ou temáticas que atendam a alguma demanda do mercado de trabalho (Art. 2º, inciso II). Este tipo de pós-graduação visa desenvolver habilidades e conhecimentos específicos para atender às necessidades das empresas e organizações.
+§ 1º A emissão do Diploma ficará condicionada à homologação, pelo Colegiado
+ de Curso, de ata elaborada pela Banca Examinadora.
 
-Baseado nos Art. 2º, inciso II.",0.900,"chunk_4, chunk_30, chunk_3, chunk_55, chunk_11","chunk_4:0.674, chunk_30:0.645, chunk_3:0.631, chunk_55:0.625, chunk_11:0.608"
-3,O regulamento prevê Doutorado Profissional? Com qual objetivo ele é definido?,"Sim, o regulamento menciona o Doutorado Profissional no Artigo 2º, item IV. O objetivo do Doutorado Profissional é capacitar profissionais qualificados para o exercício da prática profissional avançada para atender arranjos produtivos em empresas, organizações públicas e privadas.
+§ 2º A ata de defesa e documentos necessários deverão ser enviados
+ pela Secretaria do Programa de Pós-Graduação, ao setor c
 
-Baseado nos Art. 2º, item IV.",0.000,"chunk_4, chunk_3, chunk_55, chunk_30, chunk_67","chunk_4:0.701, chunk_3:0.618, chunk_55:0.602, chunk_30:0.592, chunk_67:0.569"
-4,É possível fazer doutorado direto sem ter feito mestrado? Em quais condições o regulamento permite isso?,"Sim, é possível cursar o doutorado direto após a graduação sem ter realizado o Curso de Mestrado. O ingresso no doutorado direto será regulamentado por ato da Pró-Reitoria de Pesquisa e Pós-Graduação.
+-----
 
-O regulamento permite essa opção desde que seja feita com justificativa e atenda aos requisitos exigidos pela UFMS, mas não especifica quais seriam esses requisitos.
+rso, de acordo com
+ orientação e deliberação da Pró-Reitoria de Pesquisa e Pós-Graduação, com base nos
+ documentos de área da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior.
 
-Baseado nos Art. 3º, Parágrafo único, e o entendimento geral do capítulo.",0.900,"chunk_4, chunk_62, chunk_30, chunk_58, chunk_55","chunk_4:0.582, chunk_62:0.566, chunk_30:0.549, chunk_58:0.546, chunk_55:0.536"
-5,O que o regulamento exige sobre proficiência em língua estrangeira para mestrado e doutorado?,"A proficiência ou suficiência em uma língua estrangeira é obrigatória nos Cursos de Mestrado e Doutorado acadêmicos, conforme determina o Art. 60 do regulamento.
+§ 1º O credenciamento e o descredenciamento dos professores nos Programas
+ de Pós-Graduação deverão ser realizados por meio de Edital público da Pró-Reitoria de
+ Pesquisa e Pós-Graduação, com ampla divulgação na UFMS.
 
-Para estudantes brasileiros e estrangeiros de países lusófonos, a definição da língua estrangeira será definida pelo Regulamento do Curso, enquanto que para estudantes estrangeiros de países não lusófonos, será exigida proficiência ou suficiência em português.
+§ 2º O descredenciamento também poderá ocorrer mediante solicitação
+ justificada do professor.
 
-Além disso, a comprovação da proficiência ou suficiência deve ser apresentada ao Colegiado de Curso no prazo máximo fixado no Regulamento do Curso. 
+Art. 11. As alterações no Corpo Docente nos Programas de Pós-Graduação
+ deverão ser apreciadas pelo Colegiado de Curso, e, posteriormente, aprovadas pelo Conselho
+ da Unidade da Administração Setor
 
-Baseado nos Art. 60 e §1º e 2º do mesmo artigo.",0.000,"chunk_52, chunk_4, chunk_62, chunk_51, chunk_61","chunk_52:0.672, chunk_4:0.639, chunk_62:0.639, chunk_51:0.62, chunk_61:0.571"
-6,O que o regulamento prevê para estudantes estrangeiros em relação à língua portuguesa ou língua estrangeira?,"De acordo com o Regulamento, para estudantes estrangeiros de países não lusófonos, será exigida proficiência ou suficiência em português (Art. 60, § 2º).
+-----
 
-Baseado nos Art. 60, § 2º.",0.000,"chunk_52, chunk_62, chunk_51, chunk_61, chunk_50","chunk_52:0.632, chunk_62:0.624, chunk_51:0.557, chunk_61:0.546, chunk_50:0.536"
-7,"Como funciona a convalidação de créditos de disciplinas cursadas em outro programa, segundo o regulamento?","De acordo com o Art. 61, a convalidação de créditos cursados com aprovação em Cursos de Pós-graduação stricto sensu pode ser realizada mediante aprovação do Colegiado de Curso. Além disso, os créditos convalidados devem ser equivalentes à estrutura curricular vigente do Curso (Art. 61 §1º).
+ivo de estudantes regulares menor mediante justificativa fundamentada, após
+ parecer da Pró-Reitoria de Pesquisa e Pós-Graduação, e manifestação do Conselho de Unidade
+ de lotação do Curso, e, posterior, aprovação do Conselho de Pesquisa e Pós-Graduação.
 
-Para isso, o processo envolve a análise dos requerimentos pelo Colegiado de Curso (Art. 45) e é necessário comprovar que as disciplinas cursadas há dez anos ou mais atendem aos critérios específicos (§2º). Baseado nos Art. 61 e §1º, §2º.
+Art. 59. Após a integralização curricular de disciplinas, o estudante deverá, com
+ a anuência de seu orientador, renovar semestralmente sua matrícula no Curso, diretamente
+ por meio do Sistema Acadêmico.
 
-(Por favor, observe que a pergunta foi muito ampla e não permito uma resposta única de apenas duas frases completas como solicitado.)",0.700,"chunk_53, chunk_40, chunk_48, chunk_47, chunk_21","chunk_53:0.709, chunk_40:0.708, chunk_48:0.685, chunk_47:0.666, chunk_21:0.582"
-8,Em quais situações o estudante pode ser desligado do curso de pós-graduação de acordo com o regulamento?,"De acordo com o Regulamento, não há menção específica sobre as situações que levam ao desligamento do estudante do curso de pós-graduação. No entanto, é possível inferir que o desligamento pode ocorrer em casos de falta de regularização da matrícula ou de insatisfação com a qualidade do curso.
+Parágrafo único. O mesmo procedimento deverá ser adotado pelo estudante
+ que estiver desenvolvendo atividades relacionadas ao curso em outra Instituição de Ensino
+ Superior no País ou no exterior.
 
-O Regulamento determina que o funcionamento do curso deve ser iniciado após a autorização e homologação pelo Ministro da Educação, além da constituição do Colegiado de Curso e designação do Coordenador (Art. 6º). Além disso, é necessário que os alunos tenham uma Dissertação, Tese ou equivalente, de sua autoria exclusiva, defendida e aprovada.
+Seção II
+ Do exame de língua estrangeira
 
-No entanto, não há menção explícita sobre as situações que levam ao desligamento do estudante. Para obter informações mais precisas, é recomendável consultar a Pró-Reitoria de Pesquisa e Pós-Graduação da UFMS.
+-----
 
-Baseado nos Art. 6º, 79 e 80.",0.000,"chunk_27, chunk_7, chunk_65, chunk_8, chunk_12","chunk_27:0.727, chunk_7:0.726, chunk_65:0.722, chunk_8:0.722, chunk_12:0.72"
-9,O que o regulamento diz sobre renovação de vínculo acadêmico e trancamento de matrícula em disciplinas?,"De acordo com o regulamento, a renovação do vínculo acadêmico é de responsabilidade do estudante (Art. 39) e deve ser feita mediante matrícula semestral ou solicitação de trancamento, com anuência do orientador, no prazo estabelecido no Calendário Acadêmico.
+rama;
+ II - propor o credenciamento e o descredenciamento de professores;
+ III - assegurar aos estudantes do Curso efetiva orientação acadêmica, incluindo
+ deliberação sobre mudança de orientação;
+ IV - deliberar sobre as designações de coorientadores;
+ V - deliberar sobre requerimentos de estudantes e professores;
+ VI - deliberar sobre admissão de estudantes;
+ VII - homologar os resultados de processos seletivos;
+ VIII - deliberar sobre os recursos administrativos quanto aos processos
+ seletivos, em segunda instância;
+ IX - aprovar os projetos de Teses e Dissertações cadastrados pelos estudantes
+ no Sistema Acadêmico, em conformidade com as linhas de pesquisa e projetos de pesquisa do
+ orie",0.900,"chunk_3, chunk_65, chunk_12, chunk_51, chunk_19","chunk_3:0.74, chunk_65:0.734, chunk_12:0.724, chunk_51:0.72, chunk_19:0.701"
+2,Qual é o objetivo de um Mestrado Profissional segundo o regulamento?,"Pergunta do usuário:
+- Qual é o objetivo de um Mestrado Profissional segundo o regulamento?
 
-Já o trancamento da matrícula em uma ou mais disciplinas é permitido desde que não ultrapasse período maior que vinte e cinco por cento da duração da disciplina (Art. 40). O estudante deve solicitar ao Colegiado de Curso a liberação da matrícula.
+Trechos relevantes do Regulamento:
 
-Baseado nos Art. 39, 40.",0.700,"chunk_37, chunk_19, chunk_33, chunk_51, chunk_31","chunk_37:0.764, chunk_19:0.668, chunk_33:0.638, chunk_51:0.636, chunk_31:0.635"
-10,O regulamento permite defesa de dissertação ou tese em sessão fechada? Em quais casos?,"Sim, o regulamento PERMITE a defesa da dissertação ou tese em sessão fechada. Isso ocorre quando há justificativa do orientador, especialmente no caso de inovação tecnológica, potencial de proteção intelectual ou de propriedade industrial.
+manda do mercado de trabalho;
+ III - Doutorado Acadêmico: formar profissionais de alto nível científico para
+ atuar como pesquisadores e como professores; e
+ IV - Doutorado Profissional: capacitar profissionais qualificados para o exercício
+ da prática profissional avançada para atender arranjos produtivos em empresas, organizações
+ públicas e privadas.
 
-Baseado nos Art. 74 e 75.",0.000,"chunk_62, chunk_61, chunk_55, chunk_58, chunk_60","chunk_62:0.631, chunk_61:0.587, chunk_55:0.573, chunk_58:0.573, chunk_60:0.566"
-11,"Se eu for reprovado no exame de qualificação, posso refazer o exame? O que o regulamento diz exatamente?","O Regulamento da Pós-Graduação na Faculdade de Ciências e Tecnologia (FACOM/UFMS) não especifica claramente a possibilidade de refazer o Exame de Qualificação. No entanto, ele permite que o estudante seja reexaminado em caso de reprovação, desde que atendam aos requisitos estabelecidos no Regulamento do Programa (Art. 68 e Parágrafo único).
+Parágrafo único. Os Cursos de Mestrado e de Doutorado conduzem aos títulos
+ de Mestre e de Doutor, respectivamente.
 
-Além disso, o Artigo 73 determina que o desligamento do programa ocorre em casos previstos no regulamento, incluindo a reprovação no Exame de Qualificação, mas não especifica se há possibilidade de refazer o exame.
+Art. 3º É possível cursar o doutorado direto após a graduação, sem ter realizado
+ o Curso de Mestrado.
 
-Portanto, é necessário verificar os requisitos específicos estabelecidos no Regulamento do Programa para saber se é possível refazer o Exame de Qualificação. Caso seja necessária mais informação específica, recomendo entrar em contato com a Secretaria Acadêmica de PGCC.
+Parágrafo único. O ingresso no doutorado direto será regulamentado por ato
+ da Pró-Reitoria de Pesquisa e Pós-Graduação.
 
-Baseado nos Art. 68 e Parágrafo único, e 73.",0.767,"chunk_58, chunk_61, chunk_55, chunk_30, chunk_62","chunk_58:0.707, chunk_61:0.646, chunk_55:0.596, chunk_30:0.59, chunk_62:0.586"
-12,O estágio de docência é obrigatório para estudantes de pós-graduação? Em quais situações o regulamento prevê esse estágio?,"O estágio de docência não é obrigatório para estudantes de pós-graduação, mas a existência do estudante em Estágio de Docência deve ser registrada no Plano de Ensino da disciplina. Além disso, o regulamento prevê que o requerimento de matrícula em Estágio Docência deve ser acompanhado de um Plano de Trabalho elaborado em conjunto com o professor responsável pela disciplina (Artigo 81, § 4º). 
+-----
 
-Essas informações devem estar presentes no histórico escolar do estudante. A emissão do Diploma de Mestre ou de Doutor fica condicionada à homologação da ata de defesa e documentos necessários enviados pela Secretaria do Programa de Pós-Graduação (Artigo 80, § 1º).
+trumentos jurídicos
+ específicos.
 
-Baseado nos Art. 81, § 4º; 79; 80, § 1º e XXIV.",0.833,"chunk_12, chunk_71, chunk_65, chunk_22, chunk_69","chunk_12:0.686, chunk_71:0.683, chunk_65:0.669, chunk_22:0.653, chunk_69:0.652"
-13,Atividades especiais podem contar como créditos no curso? Há algum limite definido no regulamento?,"Sim, é permitido que as atividades especiais sejam computadas como créditos no curso. O Regulamento determina que elas poderão integrar a Estrutura Curricular do Curso, como Componentes Curriculares Não Disciplinares (CCND), até o limite de vinte e cinco por cento do total de créditos exigidos.
+§ 3º A matrícula dos estudantes será realizada no Sistema de Acadêmico.
 
-Baseado nos Art. 47, §7º e Art. 55.",0.833,"chunk_48, chunk_40, chunk_53, chunk_36, chunk_47","chunk_48:0.683, chunk_40:0.655, chunk_53:0.637, chunk_36:0.636, chunk_47:0.6"
-14,"Quando algo não está previsto explicitamente no regulamento, quem é responsável por decidir esses casos?","Não há menção explícita no regulamento sobre a figura de responsabilidade em casos não previstos. No entanto, o parágrafo único do Artigo 74 menciona que a defesa de Tese pode ocorrer em sessão fechada, em casos excepcionais e mediante justificativa do orientador, indicando que há liberdade para decisões específicas em contextos bem definidos.
+§ 4º É de responsabilidade do estudante preencher e manter seus dados
+ pessoais e de perfil atualizados no Sistema Acadêmico da UFMS.
 
-Baseado nos Art. 74, §1º e §2º.",0.600,"chunk_30, chunk_55, chunk_22, chunk_62, chunk_61","chunk_30:0.652, chunk_55:0.563, chunk_22:0.527, chunk_62:0.524, chunk_61:0.52"
-15,Qual é o prazo para entrega do TCC na graduação em Ciência da Computação?,"De acordo com o regulamento, não há menção explícita ao prazo de entrega do Trabalho de Conclusão (TCC) para a graduação em Ciência da Computação. Porém, é importante lembrar que os estudantes devem renovar semestralmente sua matrícula diretamente por meio do Sistema Acadêmico, conforme determinado no Artigo 59.
+§ 5º A UFMS poderá, a qualquer momento, verificar a veracidade das
+ informações pessoais, da autodeclaração e dos dados socioeconômicos do estudante, bem
+ como verificar o atendimento aos requisitos de ingresso.
 
-Além disso, o regulamento estabelece que o desligamento deve ser comunicado formalmente e com justificativa ao estudante e ao orientador, pelo e-mail institucional do Programa de Pós-graduação (ou graduação), conforme mencionado no § 1º do Art. 79.
+Parágrafo único. O estudante poderá ter sua matrícula cancelada quando for
+ constatada, a qualquer tempo, informação fornecida em seu cadastro seja inverídica,
+ respeitado o direito de defesa e o devido processo legal.
 
-Em resumo, não há prazo específico para a entrega do TCC na graduação em Ciência da Computação no regulamento fornecido. No entanto, é importante lembrar que os estudantes devem manter sua matrícula atualizada e comunicar qualquer desligamento formalmente.
+Art. 32. Os estudantes r
 
-Desculpe, baseado no regulamento, não consigo informar com precisão o prazo para entrega do TCC na graduação em Ciência da Computação. Favor, entrar em contato com a Secretaria Acadêmica de PGCC: (67) 3345-7456 / ppg.facom@ufms.br.
+-----
 
-Artigos citados:
- - Art. 59
- - § 1º do Art. 79",0.000,"chunk_51, chunk_9, chunk_64, chunk_55, chunk_61","chunk_51:0.582, chunk_9:0.577, chunk_64:0.568, chunk_55:0.566, chunk_61:0.565"
-16,Como faço para conseguir bolsa de estudos em computação em uma universidade na Europa?,"Desculpe, baseado no regulamento, não consigo informar com precisão. Favor, entre em contato com a Secretaria Acadêmica de PGCC:
+embramento de Cursos de Pós-graduação
+ stricto sensu, para aprovação pelo Conselho Universitário - Coun e pela Coordenação de
+ Aperfeiçoamento de Pessoal de Nível Superior - Capes.
 
-Telefone: (67) 3345-7456 / E-mail: ppg.facom@ufms.br
-Endereço: Avenida Costa e Silva, s/n; Bairro Universitário; Cep:79070-900
+Art. 2º Os Programas de Pós-graduação stricto sensu compreendem os Cursos
+ de Mestrado e Doutorado, nas modalidades acadêmica e profissional, com os seguintes
+ objetivos:
+ I - Mestrado Acadêmico: promover a competência científica, acadêmica ou
+ artística para a formação de professores e de pesquisadores;
+ II - Mestrado Profissional: capacitar profissionais mediante o estudo de
+ técnicas, processos, ou temáticas que atendam a alguma demanda do mercado de trabalho;
+ III - Doutorado Acadêmico: formar profissionais d
 
-Horário de Atendimento:
+-----
 
-Secretaria de Graduação: Segunda à sexta-feira, 8h às 12h / 13h às 17h
-Secretaria de Pós-graduação: Segunda à sexta-feira, 8h às 12h / 13h às 17h.",0.600,"chunk_19, chunk_51, chunk_3, chunk_65, chunk_71","chunk_19:0.588, chunk_51:0.559, chunk_3:0.549, chunk_65:0.548, chunk_71:0.536"
+a defesa da Dissertação ou Tese;
+ IV - não realizar o Exame de Qualificação ou defesa da Dissertação ou Tese no
+ prazo determinado;
+ V - não apresentar a versão definitiva do Trabalho Final de Curso no prazo
+ determinado;
+ VI - obtiver comprovada ocorrência de má conduta científica, por meio de
+ Processo Administrativo Disciplinar do Estudante - Pade;
+ VII - em caso de desistência, abandono, transferência compulsória, mudança de
+ nível sem titulação ou falecimento; e ou
+ VIII - em casos previstos no Regulamento Disciplinar do Estudante da UFMS.
+
+§ 1º O desligamento deverá ser comunicado formalmente e com justificativa,
+ ao estudante e ao orientador, pelo e-mail institucional do Programa de P
+
+-----
+
+to
+ por professores, pesquisadores ou profissionais da UFMS ou de outras instituições nacionais
+ ou estrangeiras, com titulação mínima de:
+ I - mestre ou doutor, para Mestrado Profissional; e
+ II - doutor, para Mestrado Acadêmico e Doutorado Acadêmico e Profissional.
+
+Art. 9. Os professores de um Curso são classificados quanto:
+ I - ao vínculo institucional: servidor público, contratado ou voluntário; e
+ II - à categoria, no curso: permanente, colaborador ou visitante.
+
+Art. 10. Os critérios para credenciamento e descredenciamento de professores
+ nos Programas de Pós-Graduação serão definidos pelo Colegiado de Curso, de acordo com
+ orientação e deliberação da Pró-Reitoria de Pesquisa e Pós-G",0.800,"chunk_4, chunk_30, chunk_3, chunk_55, chunk_11","chunk_4:0.674, chunk_30:0.645, chunk_3:0.631, chunk_55:0.625, chunk_11:0.608"
+3,O regulamento prevê Doutorado Profissional? Com qual objetivo ele é definido?,"Pergunta do usuário:
+- O regulamento prevê Doutorado Profissional? Com qual objetivo ele é definido?
+
+Trechos relevantes do Regulamento:
+
+manda do mercado de trabalho;
+ III - Doutorado Acadêmico: formar profissionais de alto nível científico para
+ atuar como pesquisadores e como professores; e
+ IV - Doutorado Profissional: capacitar profissionais qualificados para o exercício
+ da prática profissional avançada para atender arranjos produtivos em empresas, organizações
+ públicas e privadas.
+
+Parágrafo único. Os Cursos de Mestrado e de Doutorado conduzem aos títulos
+ de Mestre e de Doutor, respectivamente.
+
+Art. 3º É possível cursar o doutorado direto após a graduação, sem ter realizado
+ o Curso de Mestrado.
+
+Parágrafo único. O ingresso no doutorado direto será regulamentado por ato
+ da Pró-Reitoria de Pesquisa e Pós-Graduação.
+
+-----
+
+embramento de Cursos de Pós-graduação
+ stricto sensu, para aprovação pelo Conselho Universitário - Coun e pela Coordenação de
+ Aperfeiçoamento de Pessoal de Nível Superior - Capes.
+
+Art. 2º Os Programas de Pós-graduação stricto sensu compreendem os Cursos
+ de Mestrado e Doutorado, nas modalidades acadêmica e profissional, com os seguintes
+ objetivos:
+ I - Mestrado Acadêmico: promover a competência científica, acadêmica ou
+ artística para a formação de professores e de pesquisadores;
+ II - Mestrado Profissional: capacitar profissionais mediante o estudo de
+ técnicas, processos, ou temáticas que atendam a alguma demanda do mercado de trabalho;
+ III - Doutorado Acadêmico: formar profissionais d
+
+-----
+
+a defesa da Dissertação ou Tese;
+ IV - não realizar o Exame de Qualificação ou defesa da Dissertação ou Tese no
+ prazo determinado;
+ V - não apresentar a versão definitiva do Trabalho Final de Curso no prazo
+ determinado;
+ VI - obtiver comprovada ocorrência de má conduta científica, por meio de
+ Processo Administrativo Disciplinar do Estudante - Pade;
+ VII - em caso de desistência, abandono, transferência compulsória, mudança de
+ nível sem titulação ou falecimento; e ou
+ VIII - em casos previstos no Regulamento Disciplinar do Estudante da UFMS.
+
+§ 1º O desligamento deverá ser comunicado formalmente e com justificativa,
+ ao estudante e ao orientador, pelo e-mail institucional do Programa de P
+
+-----
+
+trumentos jurídicos
+ específicos.
+
+§ 3º A matrícula dos estudantes será realizada no Sistema de Acadêmico.
+
+§ 4º É de responsabilidade do estudante preencher e manter seus dados
+ pessoais e de perfil atualizados no Sistema Acadêmico da UFMS.
+
+§ 5º A UFMS poderá, a qualquer momento, verificar a veracidade das
+ informações pessoais, da autodeclaração e dos dados socioeconômicos do estudante, bem
+ como verificar o atendimento aos requisitos de ingresso.
+
+Parágrafo único. O estudante poderá ter sua matrícula cancelada quando for
+ constatada, a qualquer tempo, informação fornecida em seu cadastro seja inverídica,
+ respeitado o direito de defesa e o devido processo legal.
+
+Art. 32. Os estudantes r
+
+-----
+
+rocedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_con… 19/21
+ Pg. 179
+10/07/2025, 16:20 SEI/UFMS - 5701360 - Resolução
+
+Art. 82. As atividades de estágio de docência poderão ser desempenhadas por
+ estudantes regularmente matriculados em Cursos de Mestrado ou de Doutorado, sob a
+ supervisão direta ou indireta do orientador.
+
+§ 1º As atividades de estágio de docência são obrigatórias para estudantes
+ bolsistas do Mestrado e Doutorado acadêmicos.
+
+§ 2º As atividades de estágio de docência não geram vínculo empregatício ou
+ remuneração.
+
+§ 3º Os bolsistas que exercem atividades de docência no ensino superior
+ poderão ser dispensados das atividades de estágio doc",0.600,"chunk_4, chunk_3, chunk_55, chunk_30, chunk_67","chunk_4:0.701, chunk_3:0.618, chunk_55:0.602, chunk_30:0.592, chunk_67:0.569"
+4,É possível fazer doutorado direto sem ter feito mestrado? Em quais condições o regulamento permite isso?,"Pergunta do usuário:
+- É possível fazer doutorado direto sem ter feito mestrado? Em quais condições o regulamento permite isso?
+
+Trechos relevantes do Regulamento:
+
+manda do mercado de trabalho;
+ III - Doutorado Acadêmico: formar profissionais de alto nível científico para
+ atuar como pesquisadores e como professores; e
+ IV - Doutorado Profissional: capacitar profissionais qualificados para o exercício
+ da prática profissional avançada para atender arranjos produtivos em empresas, organizações
+ públicas e privadas.
+
+Parágrafo único. Os Cursos de Mestrado e de Doutorado conduzem aos títulos
+ de Mestre e de Doutor, respectivamente.
+
+Art. 3º É possível cursar o doutorado direto após a graduação, sem ter realizado
+ o Curso de Mestrado.
+
+Parágrafo único. O ingresso no doutorado direto será regulamentado por ato
+ da Pró-Reitoria de Pesquisa e Pós-Graduação.
+
+-----
+
+e inovação tecnológica, potencial de proteção intelectual ou de
+ propriedade industrial, mediante justificativa do orientador, a defesa poderá ocorrer em
+ sessão fechada.
+
+Art. 75. Os Trabalhos Finais de Curso, incluindo Dissertações de Mestrado, Teses
+ de Doutorado ou trabalhos equivalentes, deverão ser redigidos em português, inglês ou
+ espanhol.
+
+Parágrafo único. As Dissertações e Teses redigidas em inglês ou em espanhol,
+ deverão incluir no início do volume resumo substancial em língua portuguesa, que evidencie
+ os objetivos, métodos, resultados e conclusões.
+
+Art. 76. Cada Programa de Pós-Graduação definirá, no seu Regulamento, a
+ forma da Dissertação, da Tese ou dos trabalhos equivalen
+
+-----
+
+trumentos jurídicos
+ específicos.
+
+§ 3º A matrícula dos estudantes será realizada no Sistema de Acadêmico.
+
+§ 4º É de responsabilidade do estudante preencher e manter seus dados
+ pessoais e de perfil atualizados no Sistema Acadêmico da UFMS.
+
+§ 5º A UFMS poderá, a qualquer momento, verificar a veracidade das
+ informações pessoais, da autodeclaração e dos dados socioeconômicos do estudante, bem
+ como verificar o atendimento aos requisitos de ingresso.
+
+Parágrafo único. O estudante poderá ter sua matrícula cancelada quando for
+ constatada, a qualquer tempo, informação fornecida em seu cadastro seja inverídica,
+ respeitado o direito de defesa e o devido processo legal.
+
+Art. 32. Os estudantes r
+
+-----
+
+gência de fomento.
+
+Art. 67. O desenvolvimento de atividade profissional remunerada pelo
+ estudante bolsista só será permitido nos casos autorizados pelas agências de fomento, com a
+ aprovação do orientador e do Colegiado do Curso.
+
+CAPÍTULO VIII
+ DA QUALIFICAÇÃO E DA DEFESA
+
+Seção I
+ Da qualificação
+
+Art. 68. A forma de avaliação do Exame de Qualificação deverá ser especificada
+ no Regulamento do Programa.
+
+Art. 69. O Exame de Qualificação poderá ser realizado por:
+ I - arguição pela Banca Examinadora, versando sobre o tema escolhido para
+ Dissertação, Tese ou equivalente; ou
+ II - parecer emitido por Banca Examinadora.
+
+Parágrafo único. O estudante poderá ser aprovado no Exame de Qualifica
+
+-----
+
+a defesa da Dissertação ou Tese;
+ IV - não realizar o Exame de Qualificação ou defesa da Dissertação ou Tese no
+ prazo determinado;
+ V - não apresentar a versão definitiva do Trabalho Final de Curso no prazo
+ determinado;
+ VI - obtiver comprovada ocorrência de má conduta científica, por meio de
+ Processo Administrativo Disciplinar do Estudante - Pade;
+ VII - em caso de desistência, abandono, transferência compulsória, mudança de
+ nível sem titulação ou falecimento; e ou
+ VIII - em casos previstos no Regulamento Disciplinar do Estudante da UFMS.
+
+§ 1º O desligamento deverá ser comunicado formalmente e com justificativa,
+ ao estudante e ao orientador, pelo e-mail institucional do Programa de P",0.800,"chunk_4, chunk_62, chunk_30, chunk_58, chunk_55","chunk_4:0.582, chunk_62:0.566, chunk_30:0.549, chunk_58:0.546, chunk_55:0.536"
+5,O que o regulamento exige sobre proficiência em língua estrangeira para mestrado e doutorado?,"Pergunta do usuário:
+- O que o regulamento exige sobre proficiência em língua estrangeira para mestrado e doutorado?
+
+Trechos relevantes do Regulamento:
+
+ino
+ Superior no País ou no exterior.
+
+Seção II
+ Do exame de língua estrangeira
+
+Art. 60. A proficiência ou suficiência em uma língua estrangeira é obrigatória
+ nos Cursos de Mestrado e Doutorado acadêmicos.
+
+§ 1º Para estudantes brasileiros e estrangeiros de países lusófonos a definição
+ da língua estrangeira será definida pelo Regulamento do Curso.
+
+§ 2º Para estudantes estrangeiros de países não lusófonos, será exigida
+ proficiência ou suficiência em português.
+
+Parágrafo único. A comprovação da proficiência ou suficiência deverá ser
+ apresentada ao Colegiado de Curso no prazo máximo fixado no Regulamento do Curso.
+
+Seção III
+ Da convalidação de créditos
+
+Art. 61. A convalidação de crédit
+
+-----
+
+manda do mercado de trabalho;
+ III - Doutorado Acadêmico: formar profissionais de alto nível científico para
+ atuar como pesquisadores e como professores; e
+ IV - Doutorado Profissional: capacitar profissionais qualificados para o exercício
+ da prática profissional avançada para atender arranjos produtivos em empresas, organizações
+ públicas e privadas.
+
+Parágrafo único. Os Cursos de Mestrado e de Doutorado conduzem aos títulos
+ de Mestre e de Doutor, respectivamente.
+
+Art. 3º É possível cursar o doutorado direto após a graduação, sem ter realizado
+ o Curso de Mestrado.
+
+Parágrafo único. O ingresso no doutorado direto será regulamentado por ato
+ da Pró-Reitoria de Pesquisa e Pós-Graduação.
+
+-----
+
+e inovação tecnológica, potencial de proteção intelectual ou de
+ propriedade industrial, mediante justificativa do orientador, a defesa poderá ocorrer em
+ sessão fechada.
+
+Art. 75. Os Trabalhos Finais de Curso, incluindo Dissertações de Mestrado, Teses
+ de Doutorado ou trabalhos equivalentes, deverão ser redigidos em português, inglês ou
+ espanhol.
+
+Parágrafo único. As Dissertações e Teses redigidas em inglês ou em espanhol,
+ deverão incluir no início do volume resumo substancial em língua portuguesa, que evidencie
+ os objetivos, métodos, resultados e conclusões.
+
+Art. 76. Cada Programa de Pós-Graduação definirá, no seu Regulamento, a
+ forma da Dissertação, da Tese ou dos trabalhos equivalen
+
+-----
+
+ivo de estudantes regulares menor mediante justificativa fundamentada, após
+ parecer da Pró-Reitoria de Pesquisa e Pós-Graduação, e manifestação do Conselho de Unidade
+ de lotação do Curso, e, posterior, aprovação do Conselho de Pesquisa e Pós-Graduação.
+
+Art. 59. Após a integralização curricular de disciplinas, o estudante deverá, com
+ a anuência de seu orientador, renovar semestralmente sua matrícula no Curso, diretamente
+ por meio do Sistema Acadêmico.
+
+Parágrafo único. O mesmo procedimento deverá ser adotado pelo estudante
+ que estiver desenvolvendo atividades relacionadas ao curso em outra Instituição de Ensino
+ Superior no País ou no exterior.
+
+Seção II
+ Do exame de língua estrangeira
+
+-----
+
+btido o total dos créditos requeridos, tenha sido aprovado no Exame de
+ Qualificação e Exame de Proficiência em Língua Estrangeira.
+
+Parágrafo único. Além dos requisitos acima, deverão ser atendidas as exigências
+ e os requisitos de defesa de dissertação, tese ou equivalente, definidos no Regulamento do
+ Programa de Pós-Graduação.
+
+Art. 74. A defesa de Tese, Dissertação ou equivalente, nos termos do
+ Regulamento do Programa, deverá ser requerida pelo orientador ao Colegiado de Curso.
+
+§ 1º Em casos excepcionais, a defesa de Tese pode ser requerida pelo
+ Coorientador ou pelo Coordenador de Curso.
+
+§ 2º Nos casos de inovação tecnológica, potencial de proteção intelectual ou de
+ propriedade ind",0.800,"chunk_52, chunk_4, chunk_62, chunk_51, chunk_61","chunk_52:0.672, chunk_4:0.639, chunk_62:0.639, chunk_51:0.62, chunk_61:0.571"
+6,O que o regulamento prevê para estudantes estrangeiros em relação à língua portuguesa ou língua estrangeira?,"Pergunta do usuário:
+- O que o regulamento prevê para estudantes estrangeiros em relação à língua portuguesa ou língua estrangeira?
+
+Trechos relevantes do Regulamento:
+
+ino
+ Superior no País ou no exterior.
+
+Seção II
+ Do exame de língua estrangeira
+
+Art. 60. A proficiência ou suficiência em uma língua estrangeira é obrigatória
+ nos Cursos de Mestrado e Doutorado acadêmicos.
+
+§ 1º Para estudantes brasileiros e estrangeiros de países lusófonos a definição
+ da língua estrangeira será definida pelo Regulamento do Curso.
+
+§ 2º Para estudantes estrangeiros de países não lusófonos, será exigida
+ proficiência ou suficiência em português.
+
+Parágrafo único. A comprovação da proficiência ou suficiência deverá ser
+ apresentada ao Colegiado de Curso no prazo máximo fixado no Regulamento do Curso.
+
+Seção III
+ Da convalidação de créditos
+
+Art. 61. A convalidação de crédit
+
+-----
+
+e inovação tecnológica, potencial de proteção intelectual ou de
+ propriedade industrial, mediante justificativa do orientador, a defesa poderá ocorrer em
+ sessão fechada.
+
+Art. 75. Os Trabalhos Finais de Curso, incluindo Dissertações de Mestrado, Teses
+ de Doutorado ou trabalhos equivalentes, deverão ser redigidos em português, inglês ou
+ espanhol.
+
+Parágrafo único. As Dissertações e Teses redigidas em inglês ou em espanhol,
+ deverão incluir no início do volume resumo substancial em língua portuguesa, que evidencie
+ os objetivos, métodos, resultados e conclusões.
+
+Art. 76. Cada Programa de Pós-Graduação definirá, no seu Regulamento, a
+ forma da Dissertação, da Tese ou dos trabalhos equivalen
+
+-----
+
+ivo de estudantes regulares menor mediante justificativa fundamentada, após
+ parecer da Pró-Reitoria de Pesquisa e Pós-Graduação, e manifestação do Conselho de Unidade
+ de lotação do Curso, e, posterior, aprovação do Conselho de Pesquisa e Pós-Graduação.
+
+Art. 59. Após a integralização curricular de disciplinas, o estudante deverá, com
+ a anuência de seu orientador, renovar semestralmente sua matrícula no Curso, diretamente
+ por meio do Sistema Acadêmico.
+
+Parágrafo único. O mesmo procedimento deverá ser adotado pelo estudante
+ que estiver desenvolvendo atividades relacionadas ao curso em outra Instituição de Ensino
+ Superior no País ou no exterior.
+
+Seção II
+ Do exame de língua estrangeira
+
+-----
+
+btido o total dos créditos requeridos, tenha sido aprovado no Exame de
+ Qualificação e Exame de Proficiência em Língua Estrangeira.
+
+Parágrafo único. Além dos requisitos acima, deverão ser atendidas as exigências
+ e os requisitos de defesa de dissertação, tese ou equivalente, definidos no Regulamento do
+ Programa de Pós-Graduação.
+
+Art. 74. A defesa de Tese, Dissertação ou equivalente, nos termos do
+ Regulamento do Programa, deverá ser requerida pelo orientador ao Colegiado de Curso.
+
+§ 1º Em casos excepcionais, a defesa de Tese pode ser requerida pelo
+ Coorientador ou pelo Coordenador de Curso.
+
+§ 2º Nos casos de inovação tecnológica, potencial de proteção intelectual ou de
+ propriedade ind
+
+-----
+
+1
+ Pg. 174
+10/07/2025, 16:20 SEI/UFMS - 5701360 - Resolução
+
+§ 2º As disciplinas poderão ocorrer de forma presencial ou híbrida durante todo
+ o período letivo ou de forma concentrada e ministradas em língua portuguesa ou estrangeira,
+ respeitadas normativas específicas da Capes.
+
+§ 3º Para a manutenção da oferta de disciplinas optativas exigir-se-á um
+ número mínimo de cinco estudantes regulares da UFMS.
+
+§ 4º A disciplina Tópicos Especiais poderá ser ofertada de forma esporádica,
+ sem alterar a Estrutura Curricular do Curso.
+
+§ 5º Em relação ao § 3º, o Colegiado de Curso poderá aprovar oferta para um
+ quantitativo de estudantes regulares menor mediante justificativa fundamentada, após
+ par",0.800,"chunk_52, chunk_62, chunk_51, chunk_61, chunk_50","chunk_52:0.632, chunk_62:0.624, chunk_51:0.557, chunk_61:0.546, chunk_50:0.536"
+7,"Como funciona a convalidação de créditos de disciplinas cursadas em outro programa, segundo o regulamento?","Pergunta do usuário:
+- Como funciona a convalidação de créditos de disciplinas cursadas em outro programa, segundo o regulamento?
+
+Trechos relevantes do Regulamento:
+
+urso.
+
+Seção III
+ Da convalidação de créditos
+
+Art. 61. A convalidação de créditos cursados com aprovação em Cursos de Pós-
+ graduação stricto sensu, em instituições brasileiras recomendadas ou estrangeiras, poderá ser
+ realizada mediante aprovação do Colegiado de Curso. 11/07/2025
+ N° 8584
+https://sei.ufms.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_con… 15/21
+ Pg. 175
+10/07/2025, 16:20 SEI/UFMS - 5701360 - Resolução
+
+§ 1º Os créditos convalidados devem, obrigatoriamente, ser equivalentes à
+ estrutura curricular vigente do Curso.
+
+§ 2º Nos casos que envolvam disciplinas cursadas há dez anos ou mais, deverá
+ ser apresentado
+
+-----
+
+o de origem ou, não havendo este, para cursos da mesma área de
+ conhecimento, de acordo com legislação específica, independente da existência de vagas, em
+ razão de comprovada remoção, de ofício, de servidor público federal civil ou militar.
+
+Art. 45. Os requerimentos de convalidação de créditos obtidos em Cursos de
+ Pós-graduação stricto sensu serão analisados pelo Colegiado de Curso.
+
+CAPÍTULO VII
+ DA ORGANIZAÇÃO DIDÁTICA
+
+Art. 46. Cada atividade acadêmica terá um valor expresso em créditos,
+ correspondendo cada crédito a quinze horas de aula.
+
+Art. 47. O total mínimo de créditos exigidos para diplomação, distribuídos entre
+ disciplinas e demais atividades curriculares, são:
+ I - dezesseis
+
+-----
+
+ulamento do Programa deverá determinar a quantidade de
+ créditos estipulada para cada atividade da Estrutura Curricular do Curso.
+
+Art. 56. De acordo com o previsto no Regulamento do Programa e para efeito
+ de contagem de créditos, poderão ser atribuídos créditos às atividades de pesquisa, no limite
+ de dez por cento do total de créditos exigidos no Curso.
+
+Art. 57. A criação, transformação, exclusão e extinção de atividades curriculares
+ deverão ser propostas pelo Colegiado de Curso após parecer da Pró-Reitoria de Pesquisa e
+ Pós-Graduação - Propp, e manifestação do Conselho de Unidade de lotação do Curso, para
+ posterior aprovação pelo Conselho de Pesquisa e Pós-Graduação.
+
+Art. 58. Todos
+
+-----
+
+s Curriculares Não Disciplinares - CCND, especificados nos
+ incisos I, V e VI do §2º, terão Regulamento específico, aprovado pelo Conselho de Pesquisa e
+ Pós-graduação.
+
+§5º A carga horária dos Componentes Curriculares Disciplinares - CCD será
+ atribuída a estudantes e professores.
+
+§6º A carga horária dos Componentes Curriculares Não Disciplinares - CCND
+ será atribuída apenas aos estudantes.
+
+§7º As atividades especiais poderão integrar a Estrutura Curricular do Curso,
+ como Componentes Curriculares Não Disciplinares - CCND, até o limite de vinte e cinco por
+ cento do total de créditos exigidos.
+
+Art. 55. O Regulamento do Programa deverá determinar a quantidade de
+ créditos estipulada para
+
+-----
+
+&acao_retorno=procedimento_cont… 6/21
+ Pg. 166
+10/07/2025, 16:20 SEI/UFMS - 5701360 - Resolução
+
+XVI - deliberar sobre planejamento do uso de recursos financeiros, bem como a
+ aprovação da prestação de contas da gestão financeira do Programa de Pós-Graduação;
+ XVII - promover o aperfeiçoamento dos currículos e a integração dos Planos de
+ Ensino das disciplinas para a organização dos cursos;
+ XVIII - propor e avaliar medidas de integração da pós-graduação com a
+ graduação, a educação básica e a sociedade;
+ XIX - apreciar e propor acordos, convênios e termos de cooperação e demais
+ instrumentos jurídicos, com entidades públicas ou privadas, nacionais ou internacionais, de
+ interesse do Progra",0.625,"chunk_53, chunk_40, chunk_48, chunk_47, chunk_21","chunk_53:0.709, chunk_40:0.708, chunk_48:0.685, chunk_47:0.666, chunk_21:0.582"
+8,Em quais situações o estudante pode ser desligado do curso de pós-graduação de acordo com o regulamento?,"Pergunta do usuário:
+- Em quais situações o estudante pode ser desligado do curso de pós-graduação de acordo com o regulamento?
+
+Trechos relevantes do Regulamento:
+
+Superior.
+
+Parágrafo único. Em caráter de excepcionalidade, este limite poderá ser
+ temporariamente ultrapassado, mediante aprovação do Colegiado de Curso.
+
+Seção III
+ Da admissão
+
+Art. 28. A admissão de estudantes nos Cursos de Pós-graduação stricto sensu
+ será realizada somente por Edital unificado de processo seletivo da Pró-Reitoria de Pesquisa e
+ Pós-Graduação.
+
+Parágrafo único. Os estudantes estrangeiros poderão ser admitidos em
+ processo seletivo unificado, exclusivo ou em fluxo contínuo, ou ainda por meio de convênios.
+
+Art. 29. As regras e os critérios de seleção serão estabelecidos pela Pró-Reitoria
+ de Pesquisa e Pós-Graduação, propostas pelo Colegiado de Curso.
+
+§ 1º Poderão ser
+
+-----
+
+ara elaboração do Regulamento e da Estrutura
+ Curricular serão elaboradas pela Pró-Reitoria de Pesquisa e Pós-Graduação.
+
+Art. 6º O funcionamento de Curso recomendado pela Coordenação de
+ Aperfeiçoamento de Pessoal de Nível Superior, tem início com a matrícula dos estudantes,
+ após:
+ I - autorização e o reconhecimento do curso pela Câmara de Educação Superior
+ do Conselho Nacional de Educação - CES/CNE, homologados pelo Ministro da Educação;
+ II - constituição do Colegiado de Curso e designação do Coordenador,
+ observando-se o disposto no Regimento Geral e no Estatuto da UFMS;
+ III - aprovação do Regulamento dos Cursos de Pós-Graduação stricto sensu;
+ IV - cadastramento do Curso no Sistema A
+
+-----
+
+ências curriculares, o estudante deverá ter uma Dissertação, Tese ou equivalente, de sua
+ autoria exclusiva, defendida e aprovada.
+
+Art. 79. As informações que deverão constar no Histórico Escolar do estudante
+ de Pós-graduação stricto sensu da UFMS serão definidas em normas pela Pró-Reitoria de
+ Pesquisa e Pós-Graduação.
+
+Art. 80. O Diploma de Mestre ou de Doutor será expedido e registrado pela
+ Secretaria de Certificação Acadêmica da UFMS.
+
+§ 1º A emissão do Diploma ficará condicionada à homologação, pelo Colegiado
+ de Curso, de ata elaborada pela Banca Examinadora.
+
+§ 2º A ata de defesa e documentos necessários deverão ser enviados
+ pela Secretaria do Programa de Pós-Graduação, ao setor c
+
+-----
+
+Cursos de Pós-Graduação stricto sensu;
+ IV - cadastramento do Curso no Sistema Acadêmico; e
+ V - homologação do processo seletivo dos candidatos, pela Pró-Reitoria de
+ Pesquisa e Pós-Graduação.
+
+§ 1º A Coordenação de Curso, após homologação da Pró-Reitoria de Pesquisa e
+ Pós-Graduação, deverá comunicar, no prazo de trinta dias úteis, o início das atividades à
+ Capes.
+
+§ 2º Após conclusão do período de matrículas, caberá ao Dirigente da Unidade
+ da Administração Setorial de vínculo do Programa de Pós-Graduação - PPG notificar o
+ Diretório Central dos Estudantes, com cópia à Associação Nacional de Pós-Graduandos, para
+ indicação de representante discente para compor o Colegiado de Curso, que d
+
+-----
+
+rso, de acordo com
+ orientação e deliberação da Pró-Reitoria de Pesquisa e Pós-Graduação, com base nos
+ documentos de área da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior.
+
+§ 1º O credenciamento e o descredenciamento dos professores nos Programas
+ de Pós-Graduação deverão ser realizados por meio de Edital público da Pró-Reitoria de
+ Pesquisa e Pós-Graduação, com ampla divulgação na UFMS.
+
+§ 2º O descredenciamento também poderá ocorrer mediante solicitação
+ justificada do professor.
+
+Art. 11. As alterações no Corpo Docente nos Programas de Pós-Graduação
+ deverão ser apreciadas pelo Colegiado de Curso, e, posteriormente, aprovadas pelo Conselho
+ da Unidade da Administração Setor",0.500,"chunk_27, chunk_7, chunk_65, chunk_8, chunk_12","chunk_27:0.727, chunk_7:0.726, chunk_65:0.722, chunk_8:0.722, chunk_12:0.72"
+9,O que o regulamento diz sobre renovação de vínculo acadêmico e trancamento de matrícula em disciplinas?,"Pergunta do usuário:
+- O que o regulamento diz sobre renovação de vínculo acadêmico e trancamento de matrícula em disciplinas?
+
+Trechos relevantes do Regulamento:
+
+esso
+
+CAPÍTULO VI
+ DA RENOVAÇÃO DO VÍNCULO, DO TRANCAMENTO E DO REGIME ESPECIAL
+
+Art. 39. A renovação do vínculo acadêmico é de responsabilidade do estudante.
+
+Parágrafo único. O vínculo acadêmico deverá ser renovado mediante a
+ matrícula semestral nas disciplinas ou atividades do Plano de Estudos e de Pesquisa, ou
+ solicitação de trancamento, com a anuência do orientador, no prazo estabelecido no
+ Calendário Acadêmico.
+
+Art. 40. O estudante poderá solicitar ao Colegiado de Curso o trancamento da
+ matrícula em uma ou mais disciplinas, desde que não tenha ultrapassado período maior que
+ vinte e cinco por cento da duração da disciplina.
+
+Art. 41. O estudante poderá requerer ao Colegiado de Cur
+
+-----
+
+rama;
+ II - propor o credenciamento e o descredenciamento de professores;
+ III - assegurar aos estudantes do Curso efetiva orientação acadêmica, incluindo
+ deliberação sobre mudança de orientação;
+ IV - deliberar sobre as designações de coorientadores;
+ V - deliberar sobre requerimentos de estudantes e professores;
+ VI - deliberar sobre admissão de estudantes;
+ VII - homologar os resultados de processos seletivos;
+ VIII - deliberar sobre os recursos administrativos quanto aos processos
+ seletivos, em segunda instância;
+ IX - aprovar os projetos de Teses e Dissertações cadastrados pelos estudantes
+ no Sistema Acadêmico, em conformidade com as linhas de pesquisa e projetos de pesquisa do
+ orie
+
+-----
+
+de Diploma de Mestrado ou de Doutorado, expedidos por
+ universidades estrangeiras; ou
+ IV - estudantes de graduação, que tenham potencial e vocação para a pós-
+ graduação, desde que tenham cumprido, no mínimo, setenta e cinco por cento da carga
+ horária total do Curso de Graduação.
+
+§ 2º O estudante especial aprovado em disciplina terá direito a um Certificado
+ de Conclusão, com descrição da ementa, carga horária, frequência e conceito da disciplina,
+ emitido pela Coordenação de Curso.
+
+Seção VI
+ Da mobilidade acadêmica
+
+Art. 34. A mobilidade acadêmica na UFMS poderá ser:
+ I - nacional: é a possibilidade de o estudante cursar disciplinas ofertadas em
+ outra Instituição de Ensino Superior br
+
+-----
+
+ivo de estudantes regulares menor mediante justificativa fundamentada, após
+ parecer da Pró-Reitoria de Pesquisa e Pós-Graduação, e manifestação do Conselho de Unidade
+ de lotação do Curso, e, posterior, aprovação do Conselho de Pesquisa e Pós-Graduação.
+
+Art. 59. Após a integralização curricular de disciplinas, o estudante deverá, com
+ a anuência de seu orientador, renovar semestralmente sua matrícula no Curso, diretamente
+ por meio do Sistema Acadêmico.
+
+Parágrafo único. O mesmo procedimento deverá ser adotado pelo estudante
+ que estiver desenvolvendo atividades relacionadas ao curso em outra Instituição de Ensino
+ Superior no País ou no exterior.
+
+Seção II
+ Do exame de língua estrangeira
+
+-----
+
+peitado o direito de defesa e o devido processo legal.
+
+Art. 32. Os estudantes regulares de Pós-graduação stricto sensu da UFMS
+ poderão solicitar matrícula em disciplinas em qualquer Curso de Pós-graduação stricto sensu
+ da UFMS.
+
+Parágrafo único. A matrícula poderá ser feita em disciplinas obrigatórias ou
+ optativas com anuência do orientador, com comprovada existência de vaga.
+
+Seção V
+ Da matrícula de estudante especial
+
+Art. 33. Poderá ser admitida a matrícula em disciplinas em Cursos de Pós-
+ graduação stricto sensu da UFMS, desde que existam vagas para estudantes especiais e
+ estudantes regulares matriculados na mesma disciplina.
+ 11/07/2025
+ N° 8584
+https://sei.ufms.br/sei/controlado",0.800,"chunk_37, chunk_19, chunk_33, chunk_51, chunk_31","chunk_37:0.764, chunk_19:0.668, chunk_33:0.638, chunk_51:0.636, chunk_31:0.635"
+10,O regulamento permite defesa de dissertação ou tese em sessão fechada? Em quais casos?,"Pergunta do usuário:
+- O regulamento permite defesa de dissertação ou tese em sessão fechada? Em quais casos?
+
+Trechos relevantes do Regulamento:
+
+e inovação tecnológica, potencial de proteção intelectual ou de
+ propriedade industrial, mediante justificativa do orientador, a defesa poderá ocorrer em
+ sessão fechada.
+
+Art. 75. Os Trabalhos Finais de Curso, incluindo Dissertações de Mestrado, Teses
+ de Doutorado ou trabalhos equivalentes, deverão ser redigidos em português, inglês ou
+ espanhol.
+
+Parágrafo único. As Dissertações e Teses redigidas em inglês ou em espanhol,
+ deverão incluir no início do volume resumo substancial em língua portuguesa, que evidencie
+ os objetivos, métodos, resultados e conclusões.
+
+Art. 76. Cada Programa de Pós-Graduação definirá, no seu Regulamento, a
+ forma da Dissertação, da Tese ou dos trabalhos equivalen
+
+-----
+
+btido o total dos créditos requeridos, tenha sido aprovado no Exame de
+ Qualificação e Exame de Proficiência em Língua Estrangeira.
+
+Parágrafo único. Além dos requisitos acima, deverão ser atendidas as exigências
+ e os requisitos de defesa de dissertação, tese ou equivalente, definidos no Regulamento do
+ Programa de Pós-Graduação.
+
+Art. 74. A defesa de Tese, Dissertação ou equivalente, nos termos do
+ Regulamento do Programa, deverá ser requerida pelo orientador ao Colegiado de Curso.
+
+§ 1º Em casos excepcionais, a defesa de Tese pode ser requerida pelo
+ Coorientador ou pelo Coordenador de Curso.
+
+§ 2º Nos casos de inovação tecnológica, potencial de proteção intelectual ou de
+ propriedade ind
+
+-----
+
+a defesa da Dissertação ou Tese;
+ IV - não realizar o Exame de Qualificação ou defesa da Dissertação ou Tese no
+ prazo determinado;
+ V - não apresentar a versão definitiva do Trabalho Final de Curso no prazo
+ determinado;
+ VI - obtiver comprovada ocorrência de má conduta científica, por meio de
+ Processo Administrativo Disciplinar do Estudante - Pade;
+ VII - em caso de desistência, abandono, transferência compulsória, mudança de
+ nível sem titulação ou falecimento; e ou
+ VIII - em casos previstos no Regulamento Disciplinar do Estudante da UFMS.
+
+§ 1º O desligamento deverá ser comunicado formalmente e com justificativa,
+ ao estudante e ao orientador, pelo e-mail institucional do Programa de P
+
+-----
+
+gência de fomento.
+
+Art. 67. O desenvolvimento de atividade profissional remunerada pelo
+ estudante bolsista só será permitido nos casos autorizados pelas agências de fomento, com a
+ aprovação do orientador e do Colegiado do Curso.
+
+CAPÍTULO VIII
+ DA QUALIFICAÇÃO E DA DEFESA
+
+Seção I
+ Da qualificação
+
+Art. 68. A forma de avaliação do Exame de Qualificação deverá ser especificada
+ no Regulamento do Programa.
+
+Art. 69. O Exame de Qualificação poderá ser realizado por:
+ I - arguição pela Banca Examinadora, versando sobre o tema escolhido para
+ Dissertação, Tese ou equivalente; ou
+ II - parecer emitido por Banca Examinadora.
+
+Parágrafo único. O estudante poderá ser aprovado no Exame de Qualifica
+
+-----
+
+tiva do orientador, a defesa poderá
+ ocorrer em sessão fechada.
+
+Art. 71. A avaliação será realizada pelos membros da Banca, com parecer, e
+ resultado:
+ I - aprovação; ou
+ II - reprovação. 11/07/2025
+ N° 8584
+https://sei.ufms.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_con… 17/21
+ Pg. 177
+10/07/2025, 16:20 SEI/UFMS - 5701360 - Resolução
+
+Art. 72. O estudante reprovado poderá repetir, uma única vez, o Exame de
+ Qualificação.
+
+Seção II
+ Da defesa
+
+Art. 73. Somente será admitido à defesa de tese, dissertação ou equivalente, o
+ candidato que tiver obtido o total dos créditos requeridos, tenha sido aprovado no Exame de
+ Qualific",0.833,"chunk_62, chunk_61, chunk_55, chunk_58, chunk_60","chunk_62:0.631, chunk_61:0.587, chunk_55:0.573, chunk_58:0.573, chunk_60:0.566"
+11,"Se eu for reprovado no exame de qualificação, posso refazer o exame? O que o regulamento diz exatamente?","Pergunta do usuário:
+- Se eu for reprovado no exame de qualificação, posso refazer o exame? O que o regulamento diz exatamente?
+
+Trechos relevantes do Regulamento:
+
+gência de fomento.
+
+Art. 67. O desenvolvimento de atividade profissional remunerada pelo
+ estudante bolsista só será permitido nos casos autorizados pelas agências de fomento, com a
+ aprovação do orientador e do Colegiado do Curso.
+
+CAPÍTULO VIII
+ DA QUALIFICAÇÃO E DA DEFESA
+
+Seção I
+ Da qualificação
+
+Art. 68. A forma de avaliação do Exame de Qualificação deverá ser especificada
+ no Regulamento do Programa.
+
+Art. 69. O Exame de Qualificação poderá ser realizado por:
+ I - arguição pela Banca Examinadora, versando sobre o tema escolhido para
+ Dissertação, Tese ou equivalente; ou
+ II - parecer emitido por Banca Examinadora.
+
+Parágrafo único. O estudante poderá ser aprovado no Exame de Qualifica
+
+-----
+
+btido o total dos créditos requeridos, tenha sido aprovado no Exame de
+ Qualificação e Exame de Proficiência em Língua Estrangeira.
+
+Parágrafo único. Além dos requisitos acima, deverão ser atendidas as exigências
+ e os requisitos de defesa de dissertação, tese ou equivalente, definidos no Regulamento do
+ Programa de Pós-Graduação.
+
+Art. 74. A defesa de Tese, Dissertação ou equivalente, nos termos do
+ Regulamento do Programa, deverá ser requerida pelo orientador ao Colegiado de Curso.
+
+§ 1º Em casos excepcionais, a defesa de Tese pode ser requerida pelo
+ Coorientador ou pelo Coordenador de Curso.
+
+§ 2º Nos casos de inovação tecnológica, potencial de proteção intelectual ou de
+ propriedade ind
+
+-----
+
+a defesa da Dissertação ou Tese;
+ IV - não realizar o Exame de Qualificação ou defesa da Dissertação ou Tese no
+ prazo determinado;
+ V - não apresentar a versão definitiva do Trabalho Final de Curso no prazo
+ determinado;
+ VI - obtiver comprovada ocorrência de má conduta científica, por meio de
+ Processo Administrativo Disciplinar do Estudante - Pade;
+ VII - em caso de desistência, abandono, transferência compulsória, mudança de
+ nível sem titulação ou falecimento; e ou
+ VIII - em casos previstos no Regulamento Disciplinar do Estudante da UFMS.
+
+§ 1º O desligamento deverá ser comunicado formalmente e com justificativa,
+ ao estudante e ao orientador, pelo e-mail institucional do Programa de P
+
+-----
+
+trumentos jurídicos
+ específicos.
+
+§ 3º A matrícula dos estudantes será realizada no Sistema de Acadêmico.
+
+§ 4º É de responsabilidade do estudante preencher e manter seus dados
+ pessoais e de perfil atualizados no Sistema Acadêmico da UFMS.
+
+§ 5º A UFMS poderá, a qualquer momento, verificar a veracidade das
+ informações pessoais, da autodeclaração e dos dados socioeconômicos do estudante, bem
+ como verificar o atendimento aos requisitos de ingresso.
+
+Parágrafo único. O estudante poderá ter sua matrícula cancelada quando for
+ constatada, a qualquer tempo, informação fornecida em seu cadastro seja inverídica,
+ respeitado o direito de defesa e o devido processo legal.
+
+Art. 32. Os estudantes r
+
+-----
+
+e inovação tecnológica, potencial de proteção intelectual ou de
+ propriedade industrial, mediante justificativa do orientador, a defesa poderá ocorrer em
+ sessão fechada.
+
+Art. 75. Os Trabalhos Finais de Curso, incluindo Dissertações de Mestrado, Teses
+ de Doutorado ou trabalhos equivalentes, deverão ser redigidos em português, inglês ou
+ espanhol.
+
+Parágrafo único. As Dissertações e Teses redigidas em inglês ou em espanhol,
+ deverão incluir no início do volume resumo substancial em língua portuguesa, que evidencie
+ os objetivos, métodos, resultados e conclusões.
+
+Art. 76. Cada Programa de Pós-Graduação definirá, no seu Regulamento, a
+ forma da Dissertação, da Tese ou dos trabalhos equivalen",0.200,"chunk_58, chunk_61, chunk_55, chunk_30, chunk_62","chunk_58:0.707, chunk_61:0.646, chunk_55:0.596, chunk_30:0.59, chunk_62:0.586"
+12,O estágio de docência é obrigatório para estudantes de pós-graduação? Em quais situações o regulamento prevê esse estágio?,"Pergunta do usuário:
+- O estágio de docência é obrigatório para estudantes de pós-graduação? Em quais situações o regulamento prevê esse estágio?
+
+Trechos relevantes do Regulamento:
+
+rso, de acordo com
+ orientação e deliberação da Pró-Reitoria de Pesquisa e Pós-Graduação, com base nos
+ documentos de área da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior.
+
+§ 1º O credenciamento e o descredenciamento dos professores nos Programas
+ de Pós-Graduação deverão ser realizados por meio de Edital público da Pró-Reitoria de
+ Pesquisa e Pós-Graduação, com ampla divulgação na UFMS.
+
+§ 2º O descredenciamento também poderá ocorrer mediante solicitação
+ justificada do professor.
+
+Art. 11. As alterações no Corpo Docente nos Programas de Pós-Graduação
+ deverão ser apreciadas pelo Colegiado de Curso, e, posteriormente, aprovadas pelo Conselho
+ da Unidade da Administração Setor
+
+-----
+
+ar do estudante de pós-graduação, na
+ disciplina de Estágio de Docência, a identificação ou o nome da disciplina de atuação, a carga
+ horária, ano e semestre letivos.
+
+CAPÍTULO XI
+ DISPOSIÇÕES TRANSITÓRIAS
+
+Art. 84. Os Regulamentos dos Programas e as estruturas curriculares dos
+ Cursos de Pós-Graduação stricto sensu da UFMS deverão ser adaptados à presente Resolução
+ no prazo de cento e vinte dias após a sua publicação.
+
+CAPÍTULO XI
+ DISPOSIÇÕES FINAIS
+
+Art. 85. Os casos não previstos nesta Resolução serão resolvidos pelo Conselho
+ de Pesquisa e Pós-Graduação.
+
+Documento assinado eletronicamente por Fabricio de
+ Oliveira Frazilio, Presidente de Conselho, em 10/07/2025,
+ às 16:12, conforme ho
+
+-----
+
+ências curriculares, o estudante deverá ter uma Dissertação, Tese ou equivalente, de sua
+ autoria exclusiva, defendida e aprovada.
+
+Art. 79. As informações que deverão constar no Histórico Escolar do estudante
+ de Pós-graduação stricto sensu da UFMS serão definidas em normas pela Pró-Reitoria de
+ Pesquisa e Pós-Graduação.
+
+Art. 80. O Diploma de Mestre ou de Doutor será expedido e registrado pela
+ Secretaria de Certificação Acadêmica da UFMS.
+
+§ 1º A emissão do Diploma ficará condicionada à homologação, pelo Colegiado
+ de Curso, de ata elaborada pela Banca Examinadora.
+
+§ 2º A ata de defesa e documentos necessários deverão ser enviados
+ pela Secretaria do Programa de Pós-Graduação, ao setor c
+
+-----
+
+dades públicas ou privadas, nacionais ou internacionais, de
+ interesse do Programa de Pós-Graduação, com objetivo específico ou para ampliação da
+ inserção social e da internacionalização;
+ XX - aprovar as comissões propostas pela coordenação e deliberar sobre suas
+ recomendações;
+ XXI - definir requisitos mínimos adicionais para defesa de dissertação, tese ou
+ equivalente, obedecendo às necessidades de desenvolvimento institucional do Programa de
+ Pós-Graduação;
+ XXII - aprovar a composição de Bancas de Qualificação e de Defesa de
+ Dissertação, Tese ou equivalente; e
+ XXIII - estabelecer critérios objetivos relativos à concessão de bolsas para
+ estudantes de pós-graduação e acompanhar o des
+
+-----
+
+rmar a
+ existência de estudante em Estágio de Docência no Plano de Ensino da disciplina.
+
+§ 4º O requerimento de matrícula em Estágio Docência, com aval do orientador,
+ deverá ser acompanhado de um Plano de Trabalho elaborado em conjunto com o professor
+ responsável pela disciplina.
+
+§ 5º Caberá ao professor responsável pela disciplina acompanhar, orientar e
+ avaliar quanto a aprovação do estudante ao término das atividades do estágio de docência.
+
+§ 6º As atividades do estágio de docência deverão ser compatíveis com a área
+ de concentração do Programa de Pós-Graduação, sendo permitida a complementação de
+ atividades como coorientação de estudantes, organização de eventos ou editoração de
+ r",0.600,"chunk_12, chunk_71, chunk_65, chunk_22, chunk_69","chunk_12:0.686, chunk_71:0.683, chunk_65:0.669, chunk_22:0.653, chunk_69:0.652"
+13,Atividades especiais podem contar como créditos no curso? Há algum limite definido no regulamento?,"Pergunta do usuário:
+- Atividades especiais podem contar como créditos no curso? Há algum limite definido no regulamento?
+
+Trechos relevantes do Regulamento:
+
+ulamento do Programa deverá determinar a quantidade de
+ créditos estipulada para cada atividade da Estrutura Curricular do Curso.
+
+Art. 56. De acordo com o previsto no Regulamento do Programa e para efeito
+ de contagem de créditos, poderão ser atribuídos créditos às atividades de pesquisa, no limite
+ de dez por cento do total de créditos exigidos no Curso.
+
+Art. 57. A criação, transformação, exclusão e extinção de atividades curriculares
+ deverão ser propostas pelo Colegiado de Curso após parecer da Pró-Reitoria de Pesquisa e
+ Pós-Graduação - Propp, e manifestação do Conselho de Unidade de lotação do Curso, para
+ posterior aprovação pelo Conselho de Pesquisa e Pós-Graduação.
+
+Art. 58. Todos
+
+-----
+
+o de origem ou, não havendo este, para cursos da mesma área de
+ conhecimento, de acordo com legislação específica, independente da existência de vagas, em
+ razão de comprovada remoção, de ofício, de servidor público federal civil ou militar.
+
+Art. 45. Os requerimentos de convalidação de créditos obtidos em Cursos de
+ Pós-graduação stricto sensu serão analisados pelo Colegiado de Curso.
+
+CAPÍTULO VII
+ DA ORGANIZAÇÃO DIDÁTICA
+
+Art. 46. Cada atividade acadêmica terá um valor expresso em créditos,
+ correspondendo cada crédito a quinze horas de aula.
+
+Art. 47. O total mínimo de créditos exigidos para diplomação, distribuídos entre
+ disciplinas e demais atividades curriculares, são:
+ I - dezesseis
+
+-----
+
+urso.
+
+Seção III
+ Da convalidação de créditos
+
+Art. 61. A convalidação de créditos cursados com aprovação em Cursos de Pós-
+ graduação stricto sensu, em instituições brasileiras recomendadas ou estrangeiras, poderá ser
+ realizada mediante aprovação do Colegiado de Curso. 11/07/2025
+ N° 8584
+https://sei.ufms.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_con… 15/21
+ Pg. 175
+10/07/2025, 16:20 SEI/UFMS - 5701360 - Resolução
+
+§ 1º Os créditos convalidados devem, obrigatoriamente, ser equivalentes à
+ estrutura curricular vigente do Curso.
+
+§ 2º Nos casos que envolvam disciplinas cursadas há dez anos ou mais, deverá
+ ser apresentado
+
+-----
+
+raduação stricto sensu por
+ prazo de integralização excedido poderá se matricular por reingresso uma única vez,
+ exclusivamente para a realização de defesa de dissertação ou tese desde que:
+ I - tenha concluído todos os créditos requeridos para defesa; e
+ II - tenha sido aprovado nas demais exigências do Curso, de acordo com o
+ Regulamento.
+
+§ 1º A solicitação de reingresso deverá ser realizada no prazo máximo de até
+ doze meses após o desligamento do estudante, e aprovada pelo Colegiado de Curso.
+
+§ 2º A defesa de Dissertação ou Tese deverá ser realizada no prazo máximo de
+ seis meses a contar a partir do reingresso
+
+CAPÍTULO VI
+ DA RENOVAÇÃO DO VÍNCULO, DO TRANCAMENTO E DO REGIME ESPECIAL
+
+-----
+
+s Curriculares Não Disciplinares - CCND, especificados nos
+ incisos I, V e VI do §2º, terão Regulamento específico, aprovado pelo Conselho de Pesquisa e
+ Pós-graduação.
+
+§5º A carga horária dos Componentes Curriculares Disciplinares - CCD será
+ atribuída a estudantes e professores.
+
+§6º A carga horária dos Componentes Curriculares Não Disciplinares - CCND
+ será atribuída apenas aos estudantes.
+
+§7º As atividades especiais poderão integrar a Estrutura Curricular do Curso,
+ como Componentes Curriculares Não Disciplinares - CCND, até o limite de vinte e cinco por
+ cento do total de créditos exigidos.
+
+Art. 55. O Regulamento do Programa deverá determinar a quantidade de
+ créditos estipulada para",0.000,"chunk_48, chunk_40, chunk_53, chunk_36, chunk_47","chunk_48:0.683, chunk_40:0.655, chunk_53:0.637, chunk_36:0.636, chunk_47:0.6"
+14,"Quando algo não está previsto explicitamente no regulamento, quem é responsável por decidir esses casos?","Pergunta do usuário:
+- Quando algo não está previsto explicitamente no regulamento, quem é responsável por decidir esses casos?
+
+Trechos relevantes do Regulamento:
+
+trumentos jurídicos
+ específicos.
+
+§ 3º A matrícula dos estudantes será realizada no Sistema de Acadêmico.
+
+§ 4º É de responsabilidade do estudante preencher e manter seus dados
+ pessoais e de perfil atualizados no Sistema Acadêmico da UFMS.
+
+§ 5º A UFMS poderá, a qualquer momento, verificar a veracidade das
+ informações pessoais, da autodeclaração e dos dados socioeconômicos do estudante, bem
+ como verificar o atendimento aos requisitos de ingresso.
+
+Parágrafo único. O estudante poderá ter sua matrícula cancelada quando for
+ constatada, a qualquer tempo, informação fornecida em seu cadastro seja inverídica,
+ respeitado o direito de defesa e o devido processo legal.
+
+Art. 32. Os estudantes r
+
+-----
+
+a defesa da Dissertação ou Tese;
+ IV - não realizar o Exame de Qualificação ou defesa da Dissertação ou Tese no
+ prazo determinado;
+ V - não apresentar a versão definitiva do Trabalho Final de Curso no prazo
+ determinado;
+ VI - obtiver comprovada ocorrência de má conduta científica, por meio de
+ Processo Administrativo Disciplinar do Estudante - Pade;
+ VII - em caso de desistência, abandono, transferência compulsória, mudança de
+ nível sem titulação ou falecimento; e ou
+ VIII - em casos previstos no Regulamento Disciplinar do Estudante da UFMS.
+
+§ 1º O desligamento deverá ser comunicado formalmente e com justificativa,
+ ao estudante e ao orientador, pelo e-mail institucional do Programa de P
+
+-----
+
+dades públicas ou privadas, nacionais ou internacionais, de
+ interesse do Programa de Pós-Graduação, com objetivo específico ou para ampliação da
+ inserção social e da internacionalização;
+ XX - aprovar as comissões propostas pela coordenação e deliberar sobre suas
+ recomendações;
+ XXI - definir requisitos mínimos adicionais para defesa de dissertação, tese ou
+ equivalente, obedecendo às necessidades de desenvolvimento institucional do Programa de
+ Pós-Graduação;
+ XXII - aprovar a composição de Bancas de Qualificação e de Defesa de
+ Dissertação, Tese ou equivalente; e
+ XXIII - estabelecer critérios objetivos relativos à concessão de bolsas para
+ estudantes de pós-graduação e acompanhar o des
+
+-----
+
+e inovação tecnológica, potencial de proteção intelectual ou de
+ propriedade industrial, mediante justificativa do orientador, a defesa poderá ocorrer em
+ sessão fechada.
+
+Art. 75. Os Trabalhos Finais de Curso, incluindo Dissertações de Mestrado, Teses
+ de Doutorado ou trabalhos equivalentes, deverão ser redigidos em português, inglês ou
+ espanhol.
+
+Parágrafo único. As Dissertações e Teses redigidas em inglês ou em espanhol,
+ deverão incluir no início do volume resumo substancial em língua portuguesa, que evidencie
+ os objetivos, métodos, resultados e conclusões.
+
+Art. 76. Cada Programa de Pós-Graduação definirá, no seu Regulamento, a
+ forma da Dissertação, da Tese ou dos trabalhos equivalen
+
+-----
+
+btido o total dos créditos requeridos, tenha sido aprovado no Exame de
+ Qualificação e Exame de Proficiência em Língua Estrangeira.
+
+Parágrafo único. Além dos requisitos acima, deverão ser atendidas as exigências
+ e os requisitos de defesa de dissertação, tese ou equivalente, definidos no Regulamento do
+ Programa de Pós-Graduação.
+
+Art. 74. A defesa de Tese, Dissertação ou equivalente, nos termos do
+ Regulamento do Programa, deverá ser requerida pelo orientador ao Colegiado de Curso.
+
+§ 1º Em casos excepcionais, a defesa de Tese pode ser requerida pelo
+ Coorientador ou pelo Coordenador de Curso.
+
+§ 2º Nos casos de inovação tecnológica, potencial de proteção intelectual ou de
+ propriedade ind",0.600,"chunk_30, chunk_55, chunk_22, chunk_62, chunk_61","chunk_30:0.652, chunk_55:0.563, chunk_22:0.527, chunk_62:0.524, chunk_61:0.52"
+15,Qual é o prazo para entrega do TCC na graduação em Ciência da Computação?,"Pergunta do usuário:
+- Qual é o prazo para entrega do TCC na graduação em Ciência da Computação?
+
+Trechos relevantes do Regulamento:
+
+ivo de estudantes regulares menor mediante justificativa fundamentada, após
+ parecer da Pró-Reitoria de Pesquisa e Pós-Graduação, e manifestação do Conselho de Unidade
+ de lotação do Curso, e, posterior, aprovação do Conselho de Pesquisa e Pós-Graduação.
+
+Art. 59. Após a integralização curricular de disciplinas, o estudante deverá, com
+ a anuência de seu orientador, renovar semestralmente sua matrícula no Curso, diretamente
+ por meio do Sistema Acadêmico.
+
+Parágrafo único. O mesmo procedimento deverá ser adotado pelo estudante
+ que estiver desenvolvendo atividades relacionadas ao curso em outra Instituição de Ensino
+ Superior no País ou no exterior.
+
+Seção II
+ Do exame de língua estrangeira
+
+-----
+
+ara
+ indicação de representante discente para compor o Colegiado de Curso, que deverá tomar
+ posse na primeira reunião ordinária subsequente à sua indicação.
+
+Art. 7º O desempenho dos Programas de Pós-Graduação será acompanhado e
+ avaliado pela Pró-Reitoria de Pesquisa e Pós-Graduação.
+
+Parágrafo único. São instrumentos de acompanhamento anual dos
+ Programas de Pós-Graduação:
+ I - Planejamento Estratégico do Programa;
+ II - relatório sobre os Indicadores do Programa de Pós-Graduação relativos ao
+ Plano de Desenvolvimento Institucional - PDI integrado ao Projeto Pedagógico Institucional -
+ PPI da UFMS e ao Plano de Desenvolvimento da Unidade - PDU;
+ III - relatórios sobre a concessão de bolsa
+
+-----
+
+lho definitivo, no prazo de trinta dias.
+
+§ 2º No caso de aprovação com revisão, a homologação ficará condicionada ao
+ depósito do trabalho revisado, com a devida aprovação do orientador, no prazo máximo de
+ trinta dias.
+
+§ 3º Nos casos que envolvam inovação tecnológica, potencial de proteção
+ intelectual ou de propriedade industrial, mediante justificativa fundamentada do orientador, o
+ depósito da Dissertação, Tese ou equivalente poderá ser protegido integralmente ou
+ parcialmente.
+
+CAPÍTULO IX
+ DOS TÍTULOS ACADÊMICOS E DOS DIPLOMAS
+
+Art. 78. Para obter o Diploma de Mestre ou de Doutor, além de cumprir as
+ exigências curriculares, o estudante deverá ter uma Dissertação, Tese ou equivalente
+
+-----
+
+a defesa da Dissertação ou Tese;
+ IV - não realizar o Exame de Qualificação ou defesa da Dissertação ou Tese no
+ prazo determinado;
+ V - não apresentar a versão definitiva do Trabalho Final de Curso no prazo
+ determinado;
+ VI - obtiver comprovada ocorrência de má conduta científica, por meio de
+ Processo Administrativo Disciplinar do Estudante - Pade;
+ VII - em caso de desistência, abandono, transferência compulsória, mudança de
+ nível sem titulação ou falecimento; e ou
+ VIII - em casos previstos no Regulamento Disciplinar do Estudante da UFMS.
+
+§ 1º O desligamento deverá ser comunicado formalmente e com justificativa,
+ ao estudante e ao orientador, pelo e-mail institucional do Programa de P
+
+-----
+
+btido o total dos créditos requeridos, tenha sido aprovado no Exame de
+ Qualificação e Exame de Proficiência em Língua Estrangeira.
+
+Parágrafo único. Além dos requisitos acima, deverão ser atendidas as exigências
+ e os requisitos de defesa de dissertação, tese ou equivalente, definidos no Regulamento do
+ Programa de Pós-Graduação.
+
+Art. 74. A defesa de Tese, Dissertação ou equivalente, nos termos do
+ Regulamento do Programa, deverá ser requerida pelo orientador ao Colegiado de Curso.
+
+§ 1º Em casos excepcionais, a defesa de Tese pode ser requerida pelo
+ Coorientador ou pelo Coordenador de Curso.
+
+§ 2º Nos casos de inovação tecnológica, potencial de proteção intelectual ou de
+ propriedade ind",0.300,"chunk_51, chunk_9, chunk_64, chunk_55, chunk_61","chunk_51:0.582, chunk_9:0.577, chunk_64:0.568, chunk_55:0.566, chunk_61:0.565"
+16,Como faço para conseguir bolsa de estudos em computação em uma universidade na Europa?,"Pergunta do usuário:
+- Como faço para conseguir bolsa de estudos em computação em uma universidade na Europa?
+
+Trechos relevantes do Regulamento:
+
+rama;
+ II - propor o credenciamento e o descredenciamento de professores;
+ III - assegurar aos estudantes do Curso efetiva orientação acadêmica, incluindo
+ deliberação sobre mudança de orientação;
+ IV - deliberar sobre as designações de coorientadores;
+ V - deliberar sobre requerimentos de estudantes e professores;
+ VI - deliberar sobre admissão de estudantes;
+ VII - homologar os resultados de processos seletivos;
+ VIII - deliberar sobre os recursos administrativos quanto aos processos
+ seletivos, em segunda instância;
+ IX - aprovar os projetos de Teses e Dissertações cadastrados pelos estudantes
+ no Sistema Acadêmico, em conformidade com as linhas de pesquisa e projetos de pesquisa do
+ orie
+
+-----
+
+ivo de estudantes regulares menor mediante justificativa fundamentada, após
+ parecer da Pró-Reitoria de Pesquisa e Pós-Graduação, e manifestação do Conselho de Unidade
+ de lotação do Curso, e, posterior, aprovação do Conselho de Pesquisa e Pós-Graduação.
+
+Art. 59. Após a integralização curricular de disciplinas, o estudante deverá, com
+ a anuência de seu orientador, renovar semestralmente sua matrícula no Curso, diretamente
+ por meio do Sistema Acadêmico.
+
+Parágrafo único. O mesmo procedimento deverá ser adotado pelo estudante
+ que estiver desenvolvendo atividades relacionadas ao curso em outra Instituição de Ensino
+ Superior no País ou no exterior.
+
+Seção II
+ Do exame de língua estrangeira
+
+-----
+
+embramento de Cursos de Pós-graduação
+ stricto sensu, para aprovação pelo Conselho Universitário - Coun e pela Coordenação de
+ Aperfeiçoamento de Pessoal de Nível Superior - Capes.
+
+Art. 2º Os Programas de Pós-graduação stricto sensu compreendem os Cursos
+ de Mestrado e Doutorado, nas modalidades acadêmica e profissional, com os seguintes
+ objetivos:
+ I - Mestrado Acadêmico: promover a competência científica, acadêmica ou
+ artística para a formação de professores e de pesquisadores;
+ II - Mestrado Profissional: capacitar profissionais mediante o estudo de
+ técnicas, processos, ou temáticas que atendam a alguma demanda do mercado de trabalho;
+ III - Doutorado Acadêmico: formar profissionais d
+
+-----
+
+ências curriculares, o estudante deverá ter uma Dissertação, Tese ou equivalente, de sua
+ autoria exclusiva, defendida e aprovada.
+
+Art. 79. As informações que deverão constar no Histórico Escolar do estudante
+ de Pós-graduação stricto sensu da UFMS serão definidas em normas pela Pró-Reitoria de
+ Pesquisa e Pós-Graduação.
+
+Art. 80. O Diploma de Mestre ou de Doutor será expedido e registrado pela
+ Secretaria de Certificação Acadêmica da UFMS.
+
+§ 1º A emissão do Diploma ficará condicionada à homologação, pelo Colegiado
+ de Curso, de ata elaborada pela Banca Examinadora.
+
+§ 2º A ata de defesa e documentos necessários deverão ser enviados
+ pela Secretaria do Programa de Pós-Graduação, ao setor c
+
+-----
+
+ar do estudante de pós-graduação, na
+ disciplina de Estágio de Docência, a identificação ou o nome da disciplina de atuação, a carga
+ horária, ano e semestre letivos.
+
+CAPÍTULO XI
+ DISPOSIÇÕES TRANSITÓRIAS
+
+Art. 84. Os Regulamentos dos Programas e as estruturas curriculares dos
+ Cursos de Pós-Graduação stricto sensu da UFMS deverão ser adaptados à presente Resolução
+ no prazo de cento e vinte dias após a sua publicação.
+
+CAPÍTULO XI
+ DISPOSIÇÕES FINAIS
+
+Art. 85. Os casos não previstos nesta Resolução serão resolvidos pelo Conselho
+ de Pesquisa e Pós-Graduação.
+
+Documento assinado eletronicamente por Fabricio de
+ Oliveira Frazilio, Presidente de Conselho, em 10/07/2025,
+ às 16:12, conforme ho",0.300,"chunk_19, chunk_51, chunk_3, chunk_65, chunk_71","chunk_19:0.588, chunk_51:0.559, chunk_3:0.549, chunk_65:0.548, chunk_71:0.536"
