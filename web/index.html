@@ -1,0 +1,33 @@
+<!doctype html><html><head>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>FACOM Bot — Regulamento</title>
+<style>
+body{font-family:system-ui,Segoe UI,Arial,sans-serif;margin:40px;max-width:900px}
+#q{width:100%;padding:12px;font-size:16px}
+button{padding:10px 16px;margin-top:8px;font-size:15px;cursor:pointer}
+pre{background:#f6f6f6;padding:14px;border-radius:8px;white-space:pre-wrap}
+.small{color:#666}
+</style>
+</head><body>
+<h1>FACOM Bot — Regulamento</h1>
+<p class="small">Faça sua pergunta sobre o regulamento da pós-graduação. O bot responde somente com base no PDF indexado.</p>
+<input id="q" placeholder="Ex.: Quais são os prazos para defesa?" />
+<button onclick="ask()">Perguntar</button>
+<pre id="out"></pre>
+<script>
+async function ask(){
+  const q = document.getElementById('q').value.trim();
+  if(!q){return}
+  document.getElementById('out').textContent = 'Consultando...';
+  const r = await fetch('/query',{method:'POST',headers:{'content-type':'application/json'},
+    body: JSON.stringify({question:q})});
+  const js = await r.json();
+  let ret = js.answer || '';
+  if(js.retrieved && js.retrieved.length){
+    ret += `\n\n---\n[debug] top-k: `+js.retrieved.map(x=>`${x.ref} (sim=${x.sim})`).join(', ');
+  }
+  document.getElementById('out').textContent = ret;
+}
+document.getElementById('q').addEventListener('keydown', e => { if(e.key==='Enter') ask() });
+</script>
+</body></html>

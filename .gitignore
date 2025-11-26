@@ -5,3 +5,6 @@ __pycache__/
 .env
 index/chroma/
 data/processed/
+
+# Chroma local
+chroma_local/
