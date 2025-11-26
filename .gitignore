@@ -8,3 +8,5 @@ data/processed/
 
 # Chroma local
 chroma_local/
+uvicorn.log
+uvicorn.pid
